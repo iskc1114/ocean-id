@@ -6,14 +6,19 @@ const [image, setImage] = useState(null);
 const [result, setResult] = useState(null);
 const [loading, setLoading] = useState(false);
 const [error, setError] = useState(null);
+const [lang, setLang] = useState('en'); // Default to English
+const t = {
+en: { title: "OCEAN ID", subtitle: "Marine Intelligence", scan: "Tap to Identify", loading: "Identifying...", again: "SCAN AGAIN", habitat: "Habitat", safety: "Safety info", fact: "Fun Fact" },
+zh: { title: "海洋識別", subtitle: "水下生物智能鑑定", scan: "點擊識別生物", loading: "正在鑑定中...", again: "再次掃描", habitat: "棲息地", safety: "安全資訊", fact: "趣味小知識" }
+}[lang];
 
 const compressImage = (file) => {
 return new Promise((resolve) => {
 const reader = new FileReader();
 reader.readAsDataURL(file);
-reader.onload = (event) => {
+reader.onload = (e) => {
 const img = new Image();
-img.src = event.target.result;
+img.src = e.target.result;
 img.onload = () => {
 const canvas = document.createElement('canvas');
 const MAX_WIDTH = 1000;
@@ -27,100 +32,84 @@ resolve(canvas.toDataURL('image/jpeg', 0.8));
 };
 });
 };
+
 const handleUpload = async (e) => {
 const file = e.target.files[0];
 if (!file) return;
-
-setLoading(true);
-setError(null);
-setResult(null);
-
+setLoading(true); setError(null); setResult(null);
 try {
-const compressedBase64 = await compressImage(file);
-setImage(compressedBase64);
-
-const response = await fetch('/api/identify', {
+const compressed = await compressImage(file);
+setImage(compressed);
+const res = await fetch('/api/identify', {
 method: 'POST',
 headers: { 'Content-Type': 'application/json' },
-body: JSON.stringify({ image: compressedBase64 }),
+body: JSON.stringify({ image: compressed, lang }),
 });
-
-const data = await response.json();
-if (!response.ok) throw new Error(data.error || 'The AI deep sea scout failed.');
+const data = await res.json();
+if (!res.ok) throw new Error(data.error || 'Failed');
 setResult(data);
-} catch (err) {
-setError(err.message);
-} finally {
-setLoading(false);
-}
+} catch (err) { setError(err.message); } finally { setLoading(false); }
 };
-
 return (
-<div className="min-h-screen bg-slate-950 text-teal-50 p-6 font-sans">
-<header className="text-center mb-10 pt-8">
-<h1 className="text-5xl font-bold text-teal-400 mb-2 tracking-tighter">OCEAN ID</h1>
-<p className="text-slate-400 text-sm">Real-time Marine Intelligence</p>
-</header>
+<div className="min-h-screen bg-slate-950 text-teal-50 p-6 font-sans selection:bg-teal-500/30">
+<nav className="flex justify-between items-center max-w-md mx-auto mb-8">
+<div className="text-2xl font-black tracking-tighter text-teal-400">{t.title}</div>
+<button
+onClick={() => setLang(lang === 'en' ? 'zh' : 'en')}
+className="bg-slate-900 border border-teal-800 px-3 py-1 rounded-full text-xs font-bold hover:border-teal-400 transition-colors"
+>
+{lang === 'en' ? '繁體中文' : 'English'}
+</button>
+</nav>
 
 <main className="max-w-md mx-auto">
-<div className="bg-slate-900 border-2 border-dashed border-teal-800 rounded-3xl p-4 text-center mb-8 relative overflow-hidden shadow-2xl">
+<div className="bg-slate-900 border-2 border-dashed border-teal-800/50 rounded-[2rem] p-4 text-center mb-8 relative overflow-hidden shadow-[0_0_50px_rgba(20,184,166,0.1)]">
 {image ? (
-<img src={image} className="rounded-2xl w-full h-80 object-cover shadow-2xl" alt="Creature" />
+<img src={image} className="rounded-[1.5rem] w-full h-80 object-cover shadow-2xl" alt="Creature" />
 ) : (
-<div className="py-24 text-center">
-<div className="text-7xl mb-4">🐙</div>
-<p className="text-teal-400 font-bold">Tap to Scan a Creature</p>
-<p className="text-slate-500 text-xs mt-2 italic">Works best for Macro & Reef fish</p>
+<div className="py-24">
+<div className="text-7xl mb-6 drop-shadow-lg">🐚</div>
+<p className="text-teal-400 font-extrabold tracking-tight text-xl">{t.scan}</p>
+<p className="text-slate-500 text-xs mt-2 uppercase tracking-widest opacity-60">{t.subtitle}</p>
 </div>
 )}
 <input type="file" accept="image/*" onChange={handleUpload} className="absolute inset-0 opacity-0 cursor-pointer" disabled={loading} />
 </div>
 
-{loading && (
-<div className="text-center space-y-4 mb-8">
-<div className="inline-block w-10 h-10 border-4 border-teal-500 border-t-transparent rounded-full animate-spin"></div>
-<p className="animate-pulse text-teal-400 font-medium">Identifying species...</p>
-</div>
-)}
-
-{error && (
-<div className="bg-red-900/30 border border-red-800 p-4 rounded-2xl text-red-300 text-xs text-center mb-8 shadow-inner">
-<p className="font-bold mb-1">DIVE ERROR:</p>
-{error}
-</div>
-)}
+{loading && <div className="text-center animate-pulse text-teal-400 font-black tracking-widest text-xs uppercase">{t.loading}</div>}
+{error && <div className="bg-red-500/10 border border-red-500/20 p-4 rounded-2xl text-red-400 text-xs text-center mb-8">{error}</div>}
 
 {result && !loading && (
-<div className="bg-slate-900 rounded-3xl p-8 border border-teal-800 shadow-2xl animate-in fade-in slide-in-from-bottom-6">
-<div className="mb-6">
-<h2 className="text-3xl font-black text-white leading-tight">{result.commonName}</h2>
-<p className="italic text-teal-500 text-base">{result.scientificName}</p>
+<div className="bg-slate-900/50 backdrop-blur-xl rounded-[2rem] p-8 border border-white/5 shadow-2xl animate-in fade-in zoom-in-95 duration-500">
+<div className="mb-8">
+<h2 className="text-4xl font-black text-white tracking-tight leading-none mb-2">{result.commonName}</h2>
+<p className="italic text-teal-500 font-medium tracking-wide text-lg">{result.scientificName}</p>
 </div>
 
-<div className="space-y-5 text-sm">
+<div className="space-y-6">
+<div className="flex gap-8">
+<div className="flex-1">
+<span className="text-teal-700 font-black uppercase text-[10px] tracking-[0.2em] block mb-2">{t.habitat}</span>
+<p className="text-slate-200 text-sm leading-relaxed">{result.habitat}</p>
+</div>
+</div>
+
 <div>
-<span className="text-teal-700 font-black uppercase text-[10px] tracking-widest block mb-1">Habitat</span>
-<p className="text-slate-200">{result.habitat}</p>
-</div>
-
-<div>
-<span className="text-teal-700 font-black uppercase text-[10px] tracking-widest block mb-1">Safety Info</span>
-<div className={`mt-1 p-3 rounded-xl border ${result.dangerLevel?.toLowerCase().includes('dangerous') ? 'bg-red-950/40 border-red-900 text-red-200' : 'bg-green-950/40 border-green-900 text-green-200'}`}>
-<p className="font-bold mb-1">{result.dangerLevel}</p>
-<p className="text-xs opacity-80">{result.dangerDetails}</p>
+<span className="text-teal-700 font-black uppercase text-[10px] tracking-[0.2em] block mb-2">{t.safety}</span>
+<div className={`p-4 rounded-2xl border ${result.dangerLevel?.toLowerCase().includes('dangerous') ? 'bg-red-500/10 border-red-500/20 text-red-200' : 'bg-green-500/10 border-green-500/20 text-green-200'}`}>
+<p className="font-black text-sm mb-1 uppercase tracking-tighter">{result.dangerLevel}</p>
+<p className="text-xs opacity-80 leading-relaxed">{result.dangerDetails}</p>
 </div>
 </div>
 
-<div className="bg-teal-900/20 p-4 rounded-2xl border border-teal-800/30">
-<span className="text-teal-500 font-black uppercase text-[10px] tracking-widest block mb-2 text-center">Fun Fact</span>
-<p className="text-sm text-teal-100 italic text-center leading-relaxed">"{result.funFact}"</p>
+<div className="bg-gradient-to-br from-teal-500/10 to-transparent p-5 rounded-2xl border border-teal-500/10">
+<span className="text-teal-400 font-black uppercase text-[10px] tracking-[0.2em] block mb-2">{t.fact}</span>
+<p className="text-sm text-teal-100/90 italic leading-relaxed">"{result.funFact}"</p>
 </div>
 </div>
-<button
-onClick={() => {setImage(null); setResult(null);}}
-className="w-full mt-8 py-4 bg-teal-500 hover:bg-teal-400 text-slate-950 rounded-2xl font-black text-lg shadow-[0_0_25px_rgba(45,212,191,0.2)] transition-all active:scale-95"
->
-SCAN AGAIN
+
+<button onClick={() => {setImage(null); setResult(null);}} className="w-full mt-10 py-5 bg-teal-400 hover:bg-teal-300 text-slate-950 rounded-2xl font-black text-lg shadow-[0_20px_40px_rgba(45,212,191,0.2)] transition-all active:scale-95">
+{t.again}
 </button>
 </div>
 )}
