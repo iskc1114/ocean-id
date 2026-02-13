@@ -1,6 +1,5 @@
 import { GoogleGenerativeAI } from "@google/generative-ai";
 import { marineBiologistPrompt } from "../../prompt";
-
 export async function POST(req) {
 try {
 const { image } = await req.json();
@@ -11,18 +10,19 @@ return new Response(JSON.stringify({ error: "No API Key" }), { status: 500 });
 }
 
 const genAI = new GoogleGenerativeAI(apiKey);
-const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
 
+// CHANGED TO GEMINI 2.0 FLASH (More stable)
+const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash" });
 const base64Data = image.split(",")[1];
 
 const result = await model.generateContent([
 marineBiologistPrompt,
 { inlineData: { data: base64Data, mimeType: "image/jpeg" } }
 ]);
+
 const response = await result.response;
 const text = response.text();
 
-// Extraction logic that avoids backticks
 const start = text.indexOf("{");
 const end = text.lastIndexOf("}") + 1;
 const finalJson = text.substring(start, end);
