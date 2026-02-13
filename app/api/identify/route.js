@@ -7,28 +7,27 @@ const { image } = await req.json();
 const apiKey = process.env.GEMINI_API_KEY;
 
 if (!apiKey) {
-return new Response(JSON.stringify({ error: "Missing API Key" }), { status: 500 });
+return new Response(JSON.stringify({ error: "No API Key" }), { status: 500 });
 }
 
 const genAI = new GoogleGenerativeAI(apiKey);
 const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
+
 const base64Data = image.split(",")[1];
 
 const result = await model.generateContent([
 marineBiologistPrompt,
 { inlineData: { data: base64Data, mimeType: "image/jpeg" } }
 ]);
-
 const response = await result.response;
-const rawText = response.text();
+const text = response.text();
 
-// Simpler cleanup that won't break the build
-const cleanedText = rawText.split("
-json").pop().split("
-")[0].trim();
+// Extraction logic that avoids backticks
+const start = text.indexOf("{");
+const end = text.lastIndexOf("}") + 1;
+const finalJson = text.substring(start, end);
 
-return new Response(cleanedText, {
-
+return new Response(finalJson, {
 status: 200,
 headers: { "Content-Type": "application/json" }
 });
