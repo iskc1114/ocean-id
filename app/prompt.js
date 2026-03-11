@@ -12,8 +12,7 @@ ${speciesList}
 Provide the response in a clean JSON format.
 
 IMPORTANT:
-- If lang is 'zh', provide all descriptive fields (habitat, regions, dangerDetails, funFact) in Traditional Chinese (繁體中文).
-- commonName should be in the requested language.
+- If lang is 'zh', provide all descriptive fields (commonName, habitat, regions, dangerDetails, funFact) in Traditional Chinese (繁體中文).
 - scientificName should always be in Latin and match the verified species list if a match is found.
 
 JSON Format:

@@ -9,7 +9,7 @@ const apiKey = process.env.GEMINI_API_KEY;
 if (!apiKey) return new Response(JSON.stringify({ error: "Missing API Key" }), { status: 500 });
 
 const genAI = new GoogleGenerativeAI(apiKey);
-const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash" });
+const model = genAI.getGenerativeModel({ model: "gemini-3-flash-preview" });
 
 const result = await model.generateContent([
 getMarineBiologistPrompt(lang),
