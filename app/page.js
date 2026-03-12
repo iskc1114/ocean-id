@@ -123,6 +123,9 @@ return (
 </div>
 )}
 </main>
+<footer style={{ marginTop: '60px', textAlign: 'center', opacity: '0.4' }}>
+<p style={{ fontSize: '10px', letterSpacing: '4px', fontWeight: 'bold' }}>OCEAN ID v4.1 • POWERED BY GEMINI 3.0</p>
+</footer>
 </div>
 );
 }
