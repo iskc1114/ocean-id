@@ -3356,169 +3356,169 @@
     "scientificName": "Dermatobranchus semistriatus Baba, 1949",
     "slug": "dermatobranchus_semistriatus",
     "url": "https://en.seaslug.world/species/dermatobranchus_semistriatus",
-    "size": null,
-    "depth": null
+    "size": "22mm",
+    "depth": "1.0m"
   },
   {
     "scientificName": "Dermatobranchus sp. 1",
     "slug": "dermatobranchus_sp._1",
     "url": "https://en.seaslug.world/species/dermatobranchus_sp._1",
-    "size": null,
-    "depth": null
+    "size": "35mm",
+    "depth": "20.0m"
   },
   {
     "scientificName": "Dermatobranchus sp. 3",
     "slug": "dermatobranchus_sp._3",
     "url": "https://en.seaslug.world/species/dermatobranchus_sp._3",
-    "size": null,
-    "depth": null
+    "size": "59mm",
+    "depth": "26.0m"
   },
   {
     "scientificName": "Dermatobranchus sp. 4",
     "slug": "dermatobranchus_sp._4",
     "url": "https://en.seaslug.world/species/dermatobranchus_sp._4",
-    "size": null,
-    "depth": null
+    "size": "50mm",
+    "depth": "23.0m"
   },
   {
     "scientificName": "Dermatobranchus sp. 5",
     "slug": "dermatobranchus_sp._5",
     "url": "https://en.seaslug.world/species/dermatobranchus_sp._5",
-    "size": null,
-    "depth": null
+    "size": "15mm",
+    "depth": "18.0m"
   },
   {
     "scientificName": "Dermatobranchus sp. 6",
     "slug": "dermatobranchus_sp._6",
     "url": "https://en.seaslug.world/species/dermatobranchus_sp._6",
-    "size": null,
-    "depth": null
+    "size": "13mm",
+    "depth": "16.0m"
   },
   {
     "scientificName": "Dermatobranchus spp.",
     "slug": "dermatobranchus_spp.",
     "url": "https://en.seaslug.world/species/dermatobranchus_spp.",
-    "size": null,
-    "depth": null
+    "size": "10mm",
+    "depth": "36.0m"
   },
   {
     "scientificName": "Dermatobranchus striatellus Baba, 1949",
     "slug": "dermatobranchus_striatellus",
     "url": "https://en.seaslug.world/species/dermatobranchus_striatellus",
-    "size": null,
-    "depth": null
+    "size": "15mm",
+    "depth": "15.0m"
   },
   {
     "scientificName": "Dermatobranchus striatus (van Hasselt, 1824)",
     "slug": "dermatobranchus_striatus",
     "url": "https://en.seaslug.world/species/dermatobranchus_striatus",
-    "size": null,
-    "depth": null
+    "size": "50mm",
+    "depth": "8.0m"
   },
   {
     "scientificName": "Dermatobranchus tuberculatus Gosliner &amp; Fahey, 2011",
     "slug": "dermatobranchus_tuberculatus",
     "url": "https://en.seaslug.world/species/dermatobranchus_tuberculatus",
-    "size": null,
-    "depth": null
+    "size": "5mm",
+    "depth": "15.0m"
   },
   {
     "scientificName": "Diacria trispinosa (Blainville, 1821)",
     "slug": "diacria_trispinosa",
     "url": "https://en.seaslug.world/species/diacria_trispinosa",
-    "size": null,
-    "depth": null
+    "size": "10mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Diaphoreolis midori (Martynov, Sanamyan &amp; Korshunova, 2015)",
     "slug": "diaphoreolis_midori",
     "url": "https://en.seaslug.world/species/diaphoreolis_midori",
-    "size": null,
-    "depth": null
+    "size": "5mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Diaphorodoris luteocincta (M. Sars, 1870)",
     "slug": "diaphorodoris_luteocincta",
     "url": "https://en.seaslug.world/species/diaphorodoris_luteocincta",
-    "size": null,
-    "depth": null
+    "size": "8mm",
+    "depth": "20.0m"
   },
   {
     "scientificName": "Diaphorodoris mitsuii (Baba, 1938)",
     "slug": "diaphorodoris_mitsuii",
     "url": "https://en.seaslug.world/species/diaphorodoris_mitsuii",
-    "size": null,
-    "depth": null
+    "size": "6mm",
+    "depth": "10.0m"
   },
   {
     "scientificName": "Diaphorodoris sp. 1",
     "slug": "diaphorodoris_sp._1",
     "url": "https://en.seaslug.world/species/diaphorodoris_sp._1",
-    "size": "1.0cm",
-    "depth": "2.0m"
+    "size": "5mm",
+    "depth": "15.0m"
   },
   {
     "scientificName": "Diaphorodoris sp. 2",
     "slug": "diaphorodoris_sp._2",
     "url": "https://en.seaslug.world/species/diaphorodoris_sp._2",
-    "size": "2.5cm",
-    "depth": "1.0m"
+    "size": "8mm",
+    "depth": "15.0m"
   },
   {
     "scientificName": "Diaphorodoris sp. 3",
     "slug": "diaphorodoris_sp._3",
     "url": "https://en.seaslug.world/species/diaphorodoris_sp._3",
-    "size": "1.0cm",
+    "size": "8mm",
     "depth": "3.0m"
   },
   {
     "scientificName": "Diaulula odonoghuei (Steinberg, 1963)",
     "slug": "diaulula_odonoghuei",
     "url": "https://en.seaslug.world/species/diaulula_odonoghuei",
-    "size": null,
-    "depth": null
+    "size": "50mm",
+    "depth": "10.0m"
   },
   {
     "scientificName": "Diaulula sp.",
     "slug": "diaulula_sp.",
     "url": "https://en.seaslug.world/species/diaulula_sp.",
-    "size": null,
-    "depth": null
+    "size": "20mm",
+    "depth": "19.0m"
   },
   {
     "scientificName": "Diaulula sp. 2",
     "slug": "diaulula_sp._2",
     "url": "https://en.seaslug.world/species/diaulula_sp._2",
-    "size": null,
-    "depth": null
+    "size": "20mm",
+    "depth": "19.0m"
   },
   {
     "scientificName": "Diniatys dentifer (A.Adams, 1850)",
     "slug": "diniatys_dentifer",
     "url": "https://en.seaslug.world/species/diniatys_dentifer",
-    "size": null,
-    "depth": null
+    "size": "5mm",
+    "depth": "2.0m"
   },
   {
     "scientificName": "Diniatys dubius (Schepman, 1913)",
     "slug": "diniatys_dubius",
     "url": "https://en.seaslug.world/species/diniatys_dubius",
-    "size": null,
-    "depth": null
+    "size": "12mm",
+    "depth": "7.0m"
   },
   {
     "scientificName": "Dirona albolineata MacFarland, 1905",
     "slug": "dirona_albolineata",
     "url": "https://en.seaslug.world/species/dirona_albolineata",
-    "size": null,
-    "depth": null
+    "size": "Data not available",
+    "depth": "Data not available"
   },
   {
     "scientificName": "Dirona pellucida Volodchenko, 1941",
     "slug": "dirona_pellucida",
     "url": "https://en.seaslug.world/species/dirona_pellucida",
-    "size": null,
-    "depth": null
+    "size": "150mm",
+    "depth": "20.0m"
   },
   {
     "scientificName": "\u30a8\u30e9\u30fc",
@@ -3622,15 +3622,15 @@
     "scientificName": "Discodorididae sp. 1",
     "slug": "discodorididae_sp._1",
     "url": "https://en.seaslug.world/species/discodorididae_sp._1",
-    "size": null,
-    "depth": null
+    "size": "40mm",
+    "depth": "19.0m"
   },
   {
     "scientificName": "Discodorididae sp. 2",
     "slug": "discodorididae_sp._2",
     "url": "https://en.seaslug.world/species/discodorididae_sp._2",
-    "size": null,
-    "depth": null
+    "size": "50mm",
+    "depth": "0.5m"
   },
   {
     "scientificName": "Discodorididae sp. 3",
@@ -3685,85 +3685,85 @@
     "scientificName": "Discodoris boholiensis Bergh, 1877",
     "slug": "discodoris_boholiensis",
     "url": "https://en.seaslug.world/species/discodoris_boholiensis",
-    "size": null,
-    "depth": null
+    "size": "20mm",
+    "depth": "10.0m"
   },
   {
     "scientificName": "Discodoris cebuensis Bergh, 1877",
     "slug": "discodoris_cebuensis",
     "url": "https://en.seaslug.world/species/discodoris_cebuensis",
-    "size": null,
-    "depth": null
+    "size": "30mm",
+    "depth": "6.0m"
   },
   {
     "scientificName": "Discodoris pardalis (Alder &amp; Hancock, 1864)",
     "slug": "discodoris_pardalis",
     "url": "https://en.seaslug.world/species/discodoris_pardalis",
-    "size": null,
-    "depth": null
+    "size": "45mm",
+    "depth": "0.4m"
   },
   {
     "scientificName": "Discodoris sp. 2",
     "slug": "discodoris_sp._2",
     "url": "https://en.seaslug.world/species/discodoris_sp._2",
-    "size": "2.5cm",
-    "depth": "1.0m"
+    "size": "12mm",
+    "depth": "20.0m"
   },
   {
     "scientificName": "Diversidoris aurantionodulosa Rudman, 1987",
     "slug": "diversidoris_aurantionodulosa",
     "url": "https://en.seaslug.world/species/diversidoris_aurantionodulosa",
-    "size": null,
-    "depth": null
+    "size": "12mm",
+    "depth": "6.0m"
   },
   {
     "scientificName": "Diversidoris crocea (Rudman, 1986)",
     "slug": "diversidoris_crocea",
     "url": "https://en.seaslug.world/species/diversidoris_crocea",
-    "size": null,
-    "depth": null
+    "size": "10mm",
+    "depth": "10.0m"
   },
   {
     "scientificName": "Diversidoris flava (Eliot, 1904)",
     "slug": "diversidoris_flava",
     "url": "https://en.seaslug.world/species/diversidoris_flava",
-    "size": null,
-    "depth": null
+    "size": "10mm",
+    "depth": "20.0m"
   },
   {
     "scientificName": "Diversidoris sp. 1",
     "slug": "diversidoris_sp._1",
     "url": "https://en.seaslug.world/species/diversidoris_sp._1",
-    "size": "1.0cm",
-    "depth": "2.0m"
+    "size": "7mm",
+    "depth": "8.0m"
   },
   {
     "scientificName": "Diversidoris sp. 2",
     "slug": "diversidoris_sp._2",
     "url": "https://en.seaslug.world/species/diversidoris_sp._2",
-    "size": "2.5cm",
-    "depth": "1.0m"
+    "size": "10mm",
+    "depth": "10.0m"
   },
   {
     "scientificName": "Diversidoris sulphurea (Rudman, 1986)",
     "slug": "diversidoris_sulphurea",
     "url": "https://en.seaslug.world/species/diversidoris_sulphurea",
-    "size": null,
-    "depth": null
+    "size": "20mm",
+    "depth": "15.0m"
   },
   {
     "scientificName": "Dolabella auricularia (Lightfoot, 1786)",
     "slug": "dolabella_auricularia",
     "url": "https://en.seaslug.world/species/dolabella_auricularia",
-    "size": null,
-    "depth": null
+    "size": "100mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Dolabrifera dolabrifera (Cuvier, 1817)",
     "slug": "dolabrifera_dolabrifera",
     "url": "https://en.seaslug.world/species/dolabrifera_dolabrifera",
-    "size": null,
-    "depth": null
+    "size": "6mm",
+    "depth": "3.0m"
   },
   {
     "scientificName": "Doridoidea sp.11",
@@ -3811,8 +3811,8 @@
     "scientificName": "Doridoidea sp. 1",
     "slug": "doridoidea_sp._1",
     "url": "https://en.seaslug.world/species/doridoidea_sp._1",
-    "size": null,
-    "depth": null
+    "size": "6mm",
+    "depth": "4.0m"
   },
   {
     "scientificName": "Doridoidea sp. 2",
@@ -3867,50 +3867,50 @@
     "scientificName": "Doridoidea spp.",
     "slug": "doridoidea_spp.",
     "url": "https://en.seaslug.world/species/doridoidea_spp.",
-    "size": null,
-    "depth": null
+    "size": "20mm",
+    "depth": "10.0m"
   },
   {
     "scientificName": "Doridomorpha gardineri Eliot, 1906",
     "slug": "doridomorpha_gardineri",
     "url": "https://en.seaslug.world/species/doridomorpha_gardineri",
-    "size": null,
-    "depth": null
+    "size": "13mm",
+    "depth": "12.0m"
   },
   {
     "scientificName": "Doriopsilla aurea (Quoy &amp; Gaimard, 1832)",
     "slug": "doriopsilla_aurea",
     "url": "https://en.seaslug.world/species/doriopsilla_aurea",
-    "size": null,
-    "depth": null
+    "size": "20mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Doriopsilla carneola (Angas, 1864)",
     "slug": "doriopsilla_carneola",
     "url": "https://en.seaslug.world/species/doriopsilla_carneola",
-    "size": null,
-    "depth": null
+    "size": "20mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Doriopsilla miniata (Alder &amp; Hancock, 1864)",
     "slug": "doriopsilla_miniata",
     "url": "https://en.seaslug.world/species/doriopsilla_miniata",
-    "size": null,
-    "depth": null
+    "size": "15mm",
+    "depth": "10.0m"
   },
   {
     "scientificName": "Doriopsilla sp. 1",
     "slug": "doriopsilla_sp._1",
     "url": "https://en.seaslug.world/species/doriopsilla_sp._1",
-    "size": null,
-    "depth": null
+    "size": "20mm",
+    "depth": "20.0m"
   },
   {
     "scientificName": "Doriopsilla sp. 2",
     "slug": "doriopsilla_sp._2",
     "url": "https://en.seaslug.world/species/doriopsilla_sp._2",
-    "size": null,
-    "depth": null
+    "size": "10mm",
+    "depth": "20.0m"
   },
   {
     "scientificName": "Doriopsilla sp. 3",
@@ -3923,42 +3923,42 @@
     "scientificName": "Doriopsis granulosa (Pease, 1860)",
     "slug": "doriopsis_granulosa",
     "url": "https://en.seaslug.world/species/doriopsis_granulosa",
-    "size": null,
-    "depth": null
+    "size": "25mm",
+    "depth": "0.5m"
   },
   {
     "scientificName": "Doriopsis pecten (Collingwood, 1881)",
     "slug": "doriopsis_pecten",
     "url": "https://en.seaslug.world/species/doriopsis_pecten",
-    "size": null,
-    "depth": null
+    "size": "15mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Doriprismatica atromarginata (Cuvier, 1804)",
     "slug": "doriprismatica_atromarginata",
     "url": "https://en.seaslug.world/species/doriprismatica_atromarginata",
-    "size": null,
-    "depth": null
+    "size": "50mm",
+    "depth": "18.0m"
   },
   {
     "scientificName": "Doriprismatica balut Matsuda &amp; Gosliner, 2018",
     "slug": "doriprismatica_balut",
     "url": "https://en.seaslug.world/species/doriprismatica_balut",
-    "size": "1.5cm",
+    "size": "15mm",
     "depth": "15.0m"
   },
   {
     "scientificName": "Doriprismatica paladentata (Rudman, 1986)",
     "slug": "doriprismatica_paladentata",
     "url": "https://en.seaslug.world/species/doriprismatica_paladentata",
-    "size": "2.5cm",
+    "size": "25mm",
     "depth": "15.0m"
   },
   {
     "scientificName": "Doriprismatica sibogae (Bergh, 1905)",
     "slug": "doriprismatica_sibogae",
     "url": "https://en.seaslug.world/species/doriprismatica_sibogae",
-    "size": "4.0cm",
+    "size": "40mm",
     "depth": "8.0m"
   },
   {
@@ -3993,8 +3993,8 @@
     "scientificName": "Doris cameroni (Allan, 1947)",
     "slug": "doris_cameroni",
     "url": "https://en.seaslug.world/species/doris_cameroni",
-    "size": null,
-    "depth": null
+    "size": "Data not available",
+    "depth": "Data not available"
   },
   {
     "scientificName": "Doris chrysoderma Angas, 1864",
@@ -4035,22 +4035,22 @@
     "scientificName": "Doris sp. 1",
     "slug": "doris_sp._1",
     "url": "https://en.seaslug.world/species/doris_sp._1",
-    "size": "2.0 cm",
-    "depth": "4.0 m"
+    "size": "5mm",
+    "depth": "15.0m"
   },
   {
     "scientificName": "Doris sp. 2",
     "slug": "doris_sp._2",
     "url": "https://en.seaslug.world/species/doris_sp._2",
-    "size": "0.5 cm",
-    "depth": "5.0 m"
+    "size": "8mm",
+    "depth": "15.0m"
   },
   {
     "scientificName": "Doris sp. 3",
     "slug": "doris_sp._3",
     "url": "https://en.seaslug.world/species/doris_sp._3",
-    "size": "1.0 cm",
-    "depth": "7.0 m"
+    "size": "8mm",
+    "depth": "3.0m"
   },
   {
     "scientificName": "Doris sp. 5",
