@@ -7017,8 +7017,8 @@
     "scientificName": "Haloa japonica (Pilsbry, 1895)",
     "slug": "haloa_japonica",
     "url": "https://en.seaslug.world/species/haloa_japonica",
-    "size": null,
-    "depth": null
+    "size": "15mm",
+    "depth": "6.0m"
   },
   {
     "scientificName": "Hamineobulla kawamurai Habe, 1950",
@@ -7031,8 +7031,8 @@
     "scientificName": "Haminoea natalensis (Krauss, 1848)",
     "slug": "haminoea_natalensis",
     "url": "https://en.seaslug.world/species/haminoea_natalensis",
-    "size": null,
-    "depth": null
+    "size": "5mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "\u30a8\u30e9\u30fc",
@@ -7185,8 +7185,8 @@
     "scientificName": "Hermaea noto (Baba, 1959)",
     "slug": "hermaea_noto",
     "url": "https://en.seaslug.world/species/hermaea_noto",
-    "size": null,
-    "depth": null
+    "size": "8mm",
+    "depth": "12.0m"
   },
   {
     "scientificName": "Hermaea sp. 1",
@@ -7227,22 +7227,22 @@
     "scientificName": "Hermaea wrangeliae (Ichikawa, 1993)",
     "slug": "hermaea_wrangeliae",
     "url": "https://en.seaslug.world/species/hermaea_wrangeliae",
-    "size": null,
-    "depth": null
+    "size": "6mm",
+    "depth": "8.0m"
   },
   {
     "scientificName": "Hermania orca (Gosliner, 1988)",
     "slug": "hermania_orca",
     "url": "https://en.seaslug.world/species/hermania_orca",
-    "size": null,
-    "depth": null
+    "size": "3mm",
+    "depth": "15.0m"
   },
   {
     "scientificName": "Hermissenda emurai (Baba, 1937)",
     "slug": "hermissenda_emurai",
     "url": "https://en.seaslug.world/species/hermissenda_emurai",
-    "size": null,
-    "depth": null
+    "size": "15mm",
+    "depth": "15.0m"
   },
   {
     "scientificName": "Herviella affinis Baba, 1960",
@@ -7276,8 +7276,8 @@
     "scientificName": "Herviella yatsui (Baba, 1930)",
     "slug": "herviella_yatsui",
     "url": "https://en.seaslug.world/species/herviella_yatsui",
-    "size": null,
-    "depth": null
+    "size": "10mm",
+    "depth": "0.0m"
   },
   {
     "scientificName": "Hexabranchus aureomarginatus Ostergaard, 1955",
@@ -7297,8 +7297,8 @@
     "scientificName": "Hexabranchus lacer (Cuvier, 1804)",
     "slug": "hexabranchus_lacer",
     "url": "https://en.seaslug.world/species/hexabranchus_lacer",
-    "size": null,
-    "depth": null
+    "size": "60mm",
+    "depth": "3.0m"
   },
   {
     "scientificName": "Hexabranchus sanguineus (R\u00fcppell &amp; Leuckart, 1830)",
@@ -7325,36 +7325,36 @@
     "scientificName": "Hyalocylis striata (Rang, 1828)",
     "slug": "hyalocylis_striata",
     "url": "https://en.seaslug.world/species/hyalocylis_striata",
-    "size": null,
-    "depth": null
+    "size": "??mm",
+    "depth": "??m"
   },
   {
     "scientificName": "Hydatina albocincta (van der Hoeven, 1839)",
     "slug": "hydatina_albocincta",
     "url": "https://en.seaslug.world/species/hydatina_albocincta",
-    "size": null,
-    "depth": null
+    "size": "29mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Hydatina physis (Linnaeus, 1758)",
     "slug": "hydatina_physis",
     "url": "https://en.seaslug.world/species/hydatina_physis",
-    "size": null,
-    "depth": null
+    "size": "30mm",
+    "depth": "2.0m"
   },
   {
     "scientificName": "Hydatina zonata (Lightfoot, 1786)",
     "slug": "hydatina_zonata",
     "url": "https://en.seaslug.world/species/hydatina_zonata",
-    "size": null,
-    "depth": null
+    "size": "20mm",
+    "depth": "7.0m"
   },
   {
     "scientificName": "Hypselodoris apolegma (Yonow, 2001)",
     "slug": "hypselodoris_apolegma",
     "url": "https://en.seaslug.world/species/hypselodoris_apolegma",
-    "size": null,
-    "depth": null
+    "size": "80mm",
+    "depth": "30.0m"
   },
   {
     "scientificName": "Hypselodoris babai Gosliner &amp; Behrens, 2000",
@@ -7367,8 +7367,8 @@
     "scientificName": "Hypselodoris bennetti (Angas, 1864)",
     "slug": "hypselodoris_bennetti",
     "url": "https://en.seaslug.world/species/hypselodoris_bennetti",
-    "size": null,
-    "depth": null
+    "size": "20mm",
+    "depth": "6.0m"
   },
   {
     "scientificName": "Hypselodoris bertschi Gosliner &amp; Johnson, 1999",
@@ -7388,8 +7388,8 @@
     "scientificName": "Hypselodoris bullockii (Collingwood, 1881)",
     "slug": "hypselodoris_bullockii",
     "url": "https://en.seaslug.world/species/hypselodoris_bullockii",
-    "size": null,
-    "depth": null
+    "size": "17mm",
+    "depth": "15.0m"
   },
   {
     "scientificName": "Hypselodoris cerisae Gosliner &amp; Johnson, 2018",
@@ -7409,15 +7409,15 @@
     "scientificName": "Hypselodoris decorata (Risbec, 1928)",
     "slug": "hypselodoris_decorata",
     "url": "https://en.seaslug.world/species/hypselodoris_decorata",
-    "size": null,
-    "depth": null
+    "size": "12mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Hypselodoris dollfusi (Pruvot-Fol, 1933)",
     "slug": "hypselodoris_dollfusi",
     "url": "https://en.seaslug.world/species/hypselodoris_dollfusi",
-    "size": null,
-    "depth": null
+    "size": "50mm",
+    "depth": "45.0m"
   },
   {
     "scientificName": "Hypselodoris emma Rudman, 1977",
@@ -7430,8 +7430,8 @@
     "scientificName": "Hypselodoris festiva (A.Adams, 1861)",
     "slug": "hypselodoris_festiva",
     "url": "https://en.seaslug.world/species/hypselodoris_festiva",
-    "size": null,
-    "depth": null
+    "size": "20mm",
+    "depth": "8.0m"
   },
   {
     "scientificName": "Hypselodoris flavomarginata Rudman, 1995",
@@ -7458,8 +7458,8 @@
     "scientificName": "Hypselodoris imperialis (Pease, 1860)",
     "slug": "hypselodoris_imperialis",
     "url": "https://en.seaslug.world/species/hypselodoris_imperialis",
-    "size": null,
-    "depth": null
+    "size": "30mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Hypselodoris infucata (R\u00fcppell &amp; Leuckart, 1830)",
@@ -7514,15 +7514,15 @@
     "scientificName": "Hypselodoris maculosa (Pease, 1871)",
     "slug": "hypselodoris_maculosa",
     "url": "https://en.seaslug.world/species/hypselodoris_maculosa",
-    "size": null,
-    "depth": null
+    "size": "12mm",
+    "depth": "9.0m"
   },
   {
     "scientificName": "Hypselodoris maritima (Baba, 1949)",
     "slug": "hypselodoris_maritima",
     "url": "https://en.seaslug.world/species/hypselodoris_maritima",
-    "size": null,
-    "depth": null
+    "size": "12mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Hypselodoris melanesica Gosliner &amp; Johnson, 2018",
@@ -7556,8 +7556,8 @@
     "scientificName": "Hypselodoris peasei (Bergh, 1880)",
     "slug": "hypselodoris_peasei",
     "url": "https://en.seaslug.world/species/hypselodoris_peasei",
-    "size": null,
-    "depth": null
+    "size": "10mm",
+    "depth": "20.0m"
   },
   {
     "scientificName": "Hypselodoris perii Gosliner &amp; Johnson, 2018",
@@ -7570,8 +7570,8 @@
     "scientificName": "Hypselodoris placida (Baba, 1949)",
     "slug": "hypselodoris_placida",
     "url": "https://en.seaslug.world/species/hypselodoris_placida",
-    "size": null,
-    "depth": null
+    "size": "10mm",
+    "depth": "6.0m"
   },
   {
     "scientificName": "Hypselodoris pulchella (Ruppell &amp; Leuckart, 1828)",
@@ -7619,8 +7619,8 @@
     "scientificName": "Hypselodoris sagamiensis (Baba, 1949)",
     "slug": "hypselodoris_sagamiensis",
     "url": "https://en.seaslug.world/species/hypselodoris_sagamiensis",
-    "size": null,
-    "depth": null
+    "size": "20mm",
+    "depth": "12.0m"
   },
   {
     "scientificName": "Hypselodoris shimodaensis Baba, 1994",
@@ -7682,15 +7682,15 @@
     "scientificName": "Hypselodoris spp.",
     "slug": "hypselodoris_spp.",
     "url": "https://en.seaslug.world/species/hypselodoris_spp.",
-    "size": null,
-    "depth": null
+    "size": "15mm",
+    "depth": "13.0m"
   },
   {
     "scientificName": "Hypselodoris tryoni (Garrett, 1873)",
     "slug": "hypselodoris_tryoni",
     "url": "https://en.seaslug.world/species/hypselodoris_tryoni",
-    "size": null,
-    "depth": null
+    "size": "30mm",
+    "depth": "15.0m"
   },
   {
     "scientificName": "Hypselodoris variobranchia Gosliner &amp; Johnson, 2018",
@@ -7787,8 +7787,8 @@
     "scientificName": "Janolus indicus (Eliot, 1909)",
     "slug": "janolus_indicus",
     "url": "https://en.seaslug.world/species/janolus_indicus",
-    "size": null,
-    "depth": null
+    "size": "30mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Janolus mirabilis Baba &amp; Abe, 1970",
@@ -7941,8 +7941,8 @@
     "scientificName": "Japonactaeon nipponensis (Yamakawa, 1911)",
     "slug": "japonactaeon_nipponensis",
     "url": "https://en.seaslug.world/species/japonactaeon_nipponensis",
-    "size": null,
-    "depth": null
+    "size": "10mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Japonactaeon sp. 1",
@@ -7962,8 +7962,8 @@
     "scientificName": "Japonactaeon suturalis (A. Adams, 1855)",
     "slug": "japonactaeon_suturalis",
     "url": "https://en.seaslug.world/species/japonactaeon_suturalis",
-    "size": null,
-    "depth": null
+    "size": "10mm",
+    "depth": "8.0m"
   },
   {
     "scientificName": "Jorunna cf. pantherina (Angas, 1864)",
@@ -7983,8 +7983,8 @@
     "scientificName": "Jorunna funebris (Kelaart, 1858)",
     "slug": "jorunna_funebris",
     "url": "https://en.seaslug.world/species/jorunna_funebris",
-    "size": null,
-    "depth": null
+    "size": "50mm",
+    "depth": "2.0m"
   },
   {
     "scientificName": "Jorunna hervei Innabi, Stout &amp; Vald\u00e9s, 2023",
@@ -8004,8 +8004,8 @@
     "scientificName": "Jorunna parva (Baba, 1938)",
     "slug": "jorunna_parva",
     "url": "https://en.seaslug.world/species/jorunna_parva",
-    "size": null,
-    "depth": null
+    "size": "20mm",
+    "depth": "3.0m"
   },
   {
     "scientificName": "Jorunna ramicola Miller, 1996",
@@ -8018,8 +8018,8 @@
     "scientificName": "Jorunna rubescens (Bergh, 1876)",
     "slug": "jorunna_rubescens",
     "url": "https://en.seaslug.world/species/jorunna_rubescens",
-    "size": null,
-    "depth": null
+    "size": "50mm",
+    "depth": "7.0m"
   },
   {
     "scientificName": "Jorunna sp. 1",
@@ -8053,15 +8053,15 @@
     "scientificName": "Jorunna spp.",
     "slug": "jorunna_spp.",
     "url": "https://en.seaslug.world/species/jorunna_spp.",
-    "size": null,
-    "depth": null
+    "size": "10mm",
+    "depth": "1.0m"
   },
   {
     "scientificName": "Julia exquisita (Gould, 1862)",
     "slug": "julia_exquisita",
     "url": "https://en.seaslug.world/species/julia_exquisita",
-    "size": null,
-    "depth": null
+    "size": "10mm",
+    "depth": "15.0m"
   },
   {
     "scientificName": "Julia japonica Kuroda &amp; Habe, 1951",
@@ -8158,8 +8158,8 @@
     "scientificName": "Kaloplocamus japonicus (Bergh, 1880)",
     "slug": "kaloplocamus_japonicus",
     "url": "https://en.seaslug.world/species/kaloplocamus_japonicus",
-    "size": null,
-    "depth": null
+    "size": "15mm",
+    "depth": "0.1m"
   },
   {
     "scientificName": "Kaloplocamus peludo (Valles &amp; Gosliner, 2006)",
@@ -8172,8 +8172,8 @@
     "scientificName": "Kaloplocamus ramosus (Cantraine, 1835)",
     "slug": "kaloplocamus_ramosus",
     "url": "https://en.seaslug.world/species/kaloplocamus_ramosus",
-    "size": null,
-    "depth": null
+    "size": "5mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Kaloplocamus sp. 1",
@@ -8256,29 +8256,29 @@
     "scientificName": "Leostyletus misakiensis (Baba, 1960)",
     "slug": "leostyletus_misakiensis",
     "url": "https://en.seaslug.world/species/leostyletus_misakiensis",
-    "size": null,
-    "depth": null
+    "size": "8mm",
+    "depth": "2.0m"
   },
   {
     "scientificName": "Leostyletus spp.",
     "slug": "leostyletus_spp.",
     "url": "https://en.seaslug.world/species/leostyletus_spp.",
-    "size": null,
-    "depth": null
+    "size": "8mm",
+    "depth": "0.0m"
   },
   {
     "scientificName": "Liloa mongii (Audouin,1826)",
     "slug": "liloa_mongii",
     "url": "https://en.seaslug.world/species/liloa_mongii",
-    "size": null,
-    "depth": null
+    "size": "10mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Liloa porcellana (Gould, 1859)",
     "slug": "liloa_porcellana",
     "url": "https://en.seaslug.world/species/liloa_porcellana",
-    "size": null,
-    "depth": null
+    "size": "5mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Liloa sp. 1",
@@ -8291,8 +8291,8 @@
     "scientificName": "Limacia clavigera (O. F. M\u00fcller, 1776)",
     "slug": "limacia_clavigera",
     "url": "https://en.seaslug.world/species/limacia_clavigera",
-    "size": null,
-    "depth": null
+    "size": "20mm",
+    "depth": "15.0m"
   },
   {
     "scientificName": "Limacia cockerelli (MacFarland, 1905)",
@@ -8305,8 +8305,8 @@
     "scientificName": "Limacia ornata (Baba, 1937)",
     "slug": "limacia_ornata",
     "url": "https://en.seaslug.world/species/limacia_ornata",
-    "size": null,
-    "depth": null
+    "size": "14mm",
+    "depth": "6.0m"
   },
   {
     "scientificName": "Limacia sp. 1",
@@ -8319,15 +8319,15 @@
     "scientificName": "Limacina helicina (Phipps, 1774)",
     "slug": "limacina_helicina",
     "url": "https://en.seaslug.world/species/limacina_helicina",
-    "size": null,
-    "depth": null
+    "size": "15mm",
+    "depth": "3.0m"
   },
   {
     "scientificName": "Limapontiidae spp.",
     "slug": "limapontiidae_spp.",
     "url": "https://en.seaslug.world/species/limapontiidae_spp.",
-    "size": null,
-    "depth": null
+    "size": "7mm",
+    "depth": "7.0m"
   },
   {
     "scientificName": "Limenandra barnosii Carmona, Pola, Gosliner &amp; Cervera, 2014",
@@ -8347,8 +8347,8 @@
     "scientificName": "Limenandra fusiformis (Baba, 1949)",
     "slug": "limenandra_fusiformis",
     "url": "https://en.seaslug.world/species/limenandra_fusiformis",
-    "size": null,
-    "depth": null
+    "size": "10mm",
+    "depth": "8.0m"
   },
   {
     "scientificName": "Limenandra rosanae Carmona, Pola, Gosliner &amp; Cervera, 2014",
@@ -8445,8 +8445,8 @@
     "scientificName": "Lomanotus spp.",
     "slug": "lomanotus_spp.",
     "url": "https://en.seaslug.world/species/lomanotus_spp.",
-    "size": null,
-    "depth": null
+    "size": "20mm",
+    "depth": "20.0m"
   },
   {
     "scientificName": "Lomanotus vermiformis Eliot, 1908",
@@ -8459,8 +8459,8 @@
     "scientificName": "Luisella babai (Schmekel, 1972)",
     "slug": "luisella_babai",
     "url": "https://en.seaslug.world/species/luisella_babai",
-    "size": null,
-    "depth": null
+    "size": "40mm",
+    "depth": "15.0m"
   },
   {
     "scientificName": "Madrella ferruginosa Alder &amp; Hancock, 1864",
@@ -8480,29 +8480,29 @@
     "scientificName": "Madrella sanguinea (Angas, 1864)",
     "slug": "madrella_sanguinea",
     "url": "https://en.seaslug.world/species/madrella_sanguinea",
-    "size": null,
-    "depth": null
+    "size": "15mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Mariaglaja alexisi (Gosliner, 2015)",
     "slug": "mariaglaja_alexisi",
     "url": "https://en.seaslug.world/species/mariaglaja_alexisi",
-    "size": null,
-    "depth": null
+    "size": "15mm",
+    "depth": "??m"
   },
   {
     "scientificName": "Mariaglaja inornata (Baba, 1949)",
     "slug": "mariaglaja_inornata",
     "url": "https://en.seaslug.world/species/mariaglaja_inornata",
-    "size": null,
-    "depth": null
+    "size": "10mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Mariaglaja mandroroa (Gosliner, 2011)",
     "slug": "mariaglaja_mandroroa",
     "url": "https://en.seaslug.world/species/mariaglaja_mandroroa",
-    "size": null,
-    "depth": null
+    "size": "20mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Mariaglaja tsurugensis (Baba &amp; Abe, 1959)",
@@ -8515,8 +8515,8 @@
     "scientificName": "Marianina rosea (Pruvot - Fol, 1930)",
     "slug": "marianina_rosea",
     "url": "https://en.seaslug.world/species/marianina_rosea",
-    "size": null,
-    "depth": null
+    "size": "8mm",
+    "depth": "15.0m"
   },
   {
     "scientificName": "Marionia distincta Bergh, 1905",
@@ -8627,8 +8627,8 @@
     "scientificName": "Marioniopsis arborescens (Bergh, 1890)",
     "slug": "marioniopsis_arborescens",
     "url": "https://en.seaslug.world/species/marioniopsis_arborescens",
-    "size": null,
-    "depth": null
+    "size": "100mm",
+    "depth": "7.0m"
   },
   {
     "scientificName": "Marioniopsis elongoreticulata (V. G. Smith &amp; Gosliner, 2007)",
@@ -8641,8 +8641,8 @@
     "scientificName": "Martadoris limaciformis (Eliot, 1908)",
     "slug": "martadoris_limaciformis",
     "url": "https://en.seaslug.world/species/martadoris_limaciformis",
-    "size": null,
-    "depth": null
+    "size": "20mm",
+    "depth": "4.0m"
   },
   {
     "scientificName": "Martadoris sp. 1",
@@ -8662,8 +8662,8 @@
     "scientificName": "Melanochlamys ezoensis (Baba, 1957)",
     "slug": "melanochlamys_ezoensis",
     "url": "https://en.seaslug.world/species/melanochlamys_ezoensis",
-    "size": null,
-    "depth": null
+    "size": "2mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Melanochlamys fukudai Cooke, Hanson, Hirano, Ornelas-Gatdula, Gosliner, Chernyshev &amp; Vald\u00e9s, 2014",
@@ -8739,8 +8739,8 @@
     "scientificName": "Melibe papillosa (de Filippi, 1867)",
     "slug": "melibe_papillosa",
     "url": "https://en.seaslug.world/species/melibe_papillosa",
-    "size": null,
-    "depth": null
+    "size": "20mm",
+    "depth": "3.0m"
   },
   {
     "scientificName": "Melibe sp. 1",
@@ -8753,15 +8753,15 @@
     "scientificName": "Melibe viridis (Kelaart, 1858)",
     "slug": "melibe_viridis",
     "url": "https://en.seaslug.world/species/melibe_viridis",
-    "size": null,
-    "depth": null
+    "size": "150mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Metaruncina setoensis (Baba, 1954)",
     "slug": "metaruncina_setoensis",
     "url": "https://en.seaslug.world/species/metaruncina_setoensis",
-    "size": null,
-    "depth": null
+    "size": "3mm",
+    "depth": "3.0m"
   },
   {
     "scientificName": "Mexichromis aurora (R. Johnson &amp; Gosliner, 1998)",
@@ -8774,8 +8774,8 @@
     "scientificName": "Mexichromis festiva (Angas, 1864)",
     "slug": "mexichromis_festiva",
     "url": "https://en.seaslug.world/species/mexichromis_festiva",
-    "size": null,
-    "depth": null
+    "size": "15mm",
+    "depth": "2.0m"
   },
   {
     "scientificName": "Mexichromis lemniscata (Quoy &amp; Gaimard, 1832)",
@@ -8795,29 +8795,29 @@
     "scientificName": "Mexichromis mariei (Crosse, 1872)",
     "slug": "mexichromis_mariei",
     "url": "https://en.seaslug.world/species/mexichromis_mariei",
-    "size": null,
-    "depth": null
+    "size": "15mm",
+    "depth": "15.0m"
   },
   {
     "scientificName": "Mexichromis multituberculata (Baba, 1953)",
     "slug": "mexichromis_multituberculata",
     "url": "https://en.seaslug.world/species/mexichromis_multituberculata",
-    "size": null,
-    "depth": null
+    "size": "25mm",
+    "depth": "10.0m"
   },
   {
     "scientificName": "Mexichromis pusilla (Bergh, 1874)",
     "slug": "mexichromis_pusilla",
     "url": "https://en.seaslug.world/species/mexichromis_pusilla",
-    "size": null,
-    "depth": null
+    "size": "10mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Mexichromis similaris (Rudman, 1986)",
     "slug": "mexichromis_similaris",
     "url": "https://en.seaslug.world/species/mexichromis_similaris",
-    "size": null,
-    "depth": null
+    "size": "7mm",
+    "depth": "8.0m"
   },
   {
     "scientificName": "Mexichromis sp. 1",
@@ -8837,8 +8837,8 @@
     "scientificName": "Miamira alleni (Gosliner, 1996)",
     "slug": "miamira_alleni",
     "url": "https://en.seaslug.world/species/miamira_alleni",
-    "size": null,
-    "depth": null
+    "size": "50mm",
+    "depth": "15.0m"
   },
   {
     "scientificName": "Miamira flavicostata Baba, 1940",
@@ -8858,22 +8858,22 @@
     "scientificName": "Miamira miamirana (Bergh, 1875)",
     "slug": "miamira_miamirana",
     "url": "https://en.seaslug.world/species/miamira_miamirana",
-    "size": null,
-    "depth": null
+    "size": "70mm",
+    "depth": "20.0m"
   },
   {
     "scientificName": "Miamira moloch (Rudman, 1988)",
     "slug": "miamira_moloch",
     "url": "https://en.seaslug.world/species/miamira_moloch",
-    "size": null,
-    "depth": null
+    "size": "150mm",
+    "depth": "15.0m"
   },
   {
     "scientificName": "Miamira sinuata (van Hasselt, 1824)",
     "slug": "miamira_sinuata",
     "url": "https://en.seaslug.world/species/miamira_sinuata",
-    "size": null,
-    "depth": null
+    "size": "20mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Miamira sp. 1",
@@ -8900,8 +8900,8 @@
     "scientificName": "Micromelo guamensis (Quoy and Gaimard, 1825)",
     "slug": "micromelo_guamensis",
     "url": "https://en.seaslug.world/species/micromelo_guamensis",
-    "size": null,
-    "depth": null
+    "size": "15mm",
+    "depth": "16.0m"
   },
   {
     "scientificName": "Micromelo undatus (Brugui\u00e8re, 1792)",
@@ -8914,15 +8914,15 @@
     "scientificName": "Mnestia girardi (Audouin, 1826)",
     "slug": "mnestia_girardi",
     "url": "https://en.seaslug.world/species/mnestia_girardi",
-    "size": null,
-    "depth": null
+    "size": "5mm",
+    "depth": "10.0m"
   },
   {
     "scientificName": "Mnestia japonica (A. Adams, 1862)",
     "slug": "mnestia_japonica",
     "url": "https://en.seaslug.world/species/mnestia_japonica",
-    "size": null,
-    "depth": null
+    "size": "4mm",
+    "depth": "16.0m"
   },
   {
     "scientificName": "Moridilla brockii Bergh, 1888",
@@ -9208,8 +9208,8 @@
     "scientificName": "Niparaya regiscorona (Bertsth, 1972)",
     "slug": "niparaya_regiscorona",
     "url": "https://en.seaslug.world/species/niparaya_regiscorona",
-    "size": null,
-    "depth": null
+    "size": "4mm",
+    "depth": "12.0m"
   },
   {
     "scientificName": "Niparaya sp.10",
@@ -9460,8 +9460,8 @@
     "scientificName": "Occidenthella athadona (Bergh, 1875)",
     "slug": "occidenthella_athadona",
     "url": "https://en.seaslug.world/species/occidenthella_athadona",
-    "size": null,
-    "depth": null
+    "size": "8mm",
+    "depth": "6.0m"
   },
   {
     "scientificName": "Odontoglaja guamensis Rudman, 1978",
@@ -9495,8 +9495,8 @@
     "scientificName": "Okenia nodosa (Montagu, 1808)",
     "slug": "okenia_nodosa",
     "url": "https://en.seaslug.world/species/okenia_nodosa",
-    "size": null,
-    "depth": null
+    "size": "??mm",
+    "depth": "??m"
   },
   {
     "scientificName": "Okenia rhinorma Rudman, 2007",
@@ -9523,15 +9523,15 @@
     "scientificName": "Onchidoris bilamellata (Linnaeus, 1767)",
     "slug": "onchidoris_bilamellata",
     "url": "https://en.seaslug.world/species/onchidoris_bilamellata",
-    "size": null,
-    "depth": null
+    "size": "10mm",
+    "depth": "6.0m"
   },
   {
     "scientificName": "Onchidoris muricata (O. F. M\u00fcller, 1776)",
     "slug": "onchidoris_muricata",
     "url": "https://en.seaslug.world/species/onchidoris_muricata",
-    "size": null,
-    "depth": null
+    "size": "13mm",
+    "depth": "15.0m"
   },
   {
     "scientificName": "Orienthella trilineata (O&#039;Donoghue, 1921)",
@@ -9586,8 +9586,8 @@
     "scientificName": "Oxynoe viridis (Pease, 1861)",
     "slug": "oxynoe_viridis",
     "url": "https://en.seaslug.world/species/oxynoe_viridis",
-    "size": null,
-    "depth": null
+    "size": "25mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Paedoclione doliiformis Danforth, 1907",
@@ -9614,8 +9614,8 @@
     "scientificName": "Paradoris liturata (Bergh, 1905)",
     "slug": "paradoris_liturata",
     "url": "https://en.seaslug.world/species/paradoris_liturata",
-    "size": null,
-    "depth": null
+    "size": "20mm",
+    "depth": "10.0m"
   },
   {
     "scientificName": "Paradoris sp.11",
@@ -9670,8 +9670,8 @@
     "scientificName": "Paraflabellina gabinierei (Vicente, 1975)",
     "slug": "paraflabellina_gabinierei",
     "url": "https://en.seaslug.world/species/paraflabellina_gabinierei",
-    "size": null,
-    "depth": null
+    "size": "15mm",
+    "depth": "12.0m"
   },
   {
     "scientificName": "Paratritonia lutea Baba, 1949",
@@ -9698,15 +9698,15 @@
     "scientificName": "Pelagella felis (Baba, 1949)",
     "slug": "pelagella_felis",
     "url": "https://en.seaslug.world/species/pelagella_felis",
-    "size": null,
-    "depth": null
+    "size": "8mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Pelagella joubini (Risbec, 1928)",
     "slug": "pelagella_joubini",
     "url": "https://en.seaslug.world/species/pelagella_joubini",
-    "size": null,
-    "depth": null
+    "size": "8mm",
+    "depth": "1.0m"
   },
   {
     "scientificName": "Pelagella longicornis Sof\u00eda Paz-Sedano, Dimitri Smirnoff, Terrence M. Gosliner and Marta Pola, 2023",
@@ -9761,8 +9761,8 @@
     "scientificName": "Pelagella sugashimae (Baba, 1960)",
     "slug": "pelagella_sugashimae",
     "url": "https://en.seaslug.world/species/pelagella_sugashimae",
-    "size": null,
-    "depth": null
+    "size": "14mm",
+    "depth": "3.0m"
   },
   {
     "scientificName": "Peltodoris atromaculata Bergh, 1880",
@@ -9775,15 +9775,15 @@
     "scientificName": "Peltodoris murrea (Abraham, 1877)",
     "slug": "peltodoris_murrea",
     "url": "https://en.seaslug.world/species/peltodoris_murrea",
-    "size": null,
-    "depth": null
+    "size": "30mm",
+    "depth": "8.0m"
   },
   {
     "scientificName": "Peltodoris rubra (Bergh, 1905)",
     "slug": "peltodoris_rubra",
     "url": "https://en.seaslug.world/species/peltodoris_rubra",
-    "size": null,
-    "depth": null
+    "size": "40mm",
+    "depth": "2.0m"
   },
   {
     "scientificName": "Petalifera cf. edmundsi (Bebbington, 1974)",
@@ -9796,8 +9796,8 @@
     "scientificName": "Petalifera punctulata (Tapparone-Canefri, 1874)",
     "slug": "petalifera_punctulata",
     "url": "https://en.seaslug.world/species/petalifera_punctulata",
-    "size": null,
-    "depth": null
+    "size": "60mm",
+    "depth": "3.0m"
   },
   {
     "scientificName": "Petalifera ramosa Baba, 1959",
@@ -9887,8 +9887,8 @@
     "scientificName": "Phestilla lugubris (Bergh, 1870)",
     "slug": "phestilla_lugubris",
     "url": "https://en.seaslug.world/species/phestilla_lugubris",
-    "size": null,
-    "depth": null
+    "size": "10mm",
+    "depth": "13.0m"
   },
   {
     "scientificName": "Phestilla melanobrachia Bergh, 1874",
@@ -9908,8 +9908,8 @@
     "scientificName": "Phestilla poritophages (Rudman, 1979)",
     "slug": "phestilla_poritophages",
     "url": "https://en.seaslug.world/species/phestilla_poritophages",
-    "size": null,
-    "depth": null
+    "size": "5mm",
+    "depth": "10.0m"
   },
   {
     "scientificName": "Phestilla sp. 3",
@@ -9936,8 +9936,8 @@
     "scientificName": "Phidiana anulifera (Baba, 1949)",
     "slug": "phidiana_anulifera",
     "url": "https://en.seaslug.world/species/phidiana_anulifera",
-    "size": null,
-    "depth": null
+    "size": "12mm",
+    "depth": "15.0m"
   },
   {
     "scientificName": "Phidiana salaamica Rudman, 1980",
@@ -10041,8 +10041,8 @@
     "scientificName": "Philinopsis gigliolii (Tapparone Canefri, 1874)",
     "slug": "philinopsis_gigliolii",
     "url": "https://en.seaslug.world/species/philinopsis_gigliolii",
-    "size": null,
-    "depth": null
+    "size": "30mm",
+    "depth": "4.0m"
   },
   {
     "scientificName": "Philinopsis sp. 1",
@@ -10069,15 +10069,15 @@
     "scientificName": "Phyllaplysia lafonti (Fischer, 1870)",
     "slug": "phyllaplysia_lafonti",
     "url": "https://en.seaslug.world/species/phyllaplysia_lafonti",
-    "size": null,
-    "depth": null
+    "size": "25mm",
+    "depth": "10.0m"
   },
   {
     "scientificName": "Phyllaplysia viridis (Bergh, 1905)",
     "slug": "phyllaplysia_viridis",
     "url": "https://en.seaslug.world/species/phyllaplysia_viridis",
-    "size": null,
-    "depth": null
+    "size": "20mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Phyllidia alyta Yonow, 1996",
@@ -10146,15 +10146,15 @@
     "scientificName": "Phyllidia guamensis (Brunckhorst, 1993)",
     "slug": "phyllidia_guamensis",
     "url": "https://en.seaslug.world/species/phyllidia_guamensis",
-    "size": null,
-    "depth": null
+    "size": "30mm",
+    "depth": "7.9m"
   },
   {
     "scientificName": "Phyllidia larryi (Brunckhorst, 1993)",
     "slug": "phyllidia_larryi",
     "url": "https://en.seaslug.world/species/phyllidia_larryi",
-    "size": null,
-    "depth": null
+    "size": "3mm",
+    "depth": "18.0m"
   },
   {
     "scientificName": "Phyllidia marindica (Yonow &amp; Hayward, 1991)",
@@ -10188,8 +10188,8 @@
     "scientificName": "Phyllidia picta (Pruvot - Fol, 1957)",
     "slug": "phyllidia_picta",
     "url": "https://en.seaslug.world/species/phyllidia_picta",
-    "size": null,
-    "depth": null
+    "size": "15mm",
+    "depth": "15.0m"
   },
   {
     "scientificName": "Phyllidia polkadotsa Brunckhorst, 1993",
@@ -10244,8 +10244,8 @@
     "scientificName": "Phyllidiella annulata (Gray, 1853)",
     "slug": "phyllidiella_annulata",
     "url": "https://en.seaslug.world/species/phyllidiella_annulata",
-    "size": null,
-    "depth": null
+    "size": "18mm",
+    "depth": "12.0m"
   },
   {
     "scientificName": "Phyllidiella cooraburrama Brunckhorst, 1993",
@@ -10272,29 +10272,29 @@
     "scientificName": "Phyllidiella meandrina (Pruvot-Fol, 1957)",
     "slug": "phyllidiella_meandrina",
     "url": "https://en.seaslug.world/species/phyllidiella_meandrina",
-    "size": null,
-    "depth": null
+    "size": "25mm",
+    "depth": "25.0m"
   },
   {
     "scientificName": "Phyllidiella nigra (van Hasselt, 1824)",
     "slug": "phyllidiella_nigra",
     "url": "https://en.seaslug.world/species/phyllidiella_nigra",
-    "size": null,
-    "depth": null
+    "size": "50mm",
+    "depth": "13.0m"
   },
   {
     "scientificName": "Phyllidiella pustulosa (Cuvier, 1804)",
     "slug": "phyllidiella_pustulosa",
     "url": "https://en.seaslug.world/species/phyllidiella_pustulosa",
-    "size": null,
-    "depth": null
+    "size": "40mm",
+    "depth": "12.0m"
   },
   {
     "scientificName": "Phyllidiella rosans (Bergh, 1873)",
     "slug": "phyllidiella_rosans",
     "url": "https://en.seaslug.world/species/phyllidiella_rosans",
-    "size": null,
-    "depth": null
+    "size": "30mm",
+    "depth": "20.0m"
   },
   {
     "scientificName": "Phyllidiella rudmani Brunckhorst, 1993",
@@ -10307,8 +10307,8 @@
     "scientificName": "Phyllidiella zeylanica (Kelaart, 1859 )",
     "slug": "phyllidiella_zeylanica",
     "url": "https://en.seaslug.world/species/phyllidiella_zeylanica",
-    "size": null,
-    "depth": null
+    "size": "40mm",
+    "depth": "10.0m"
   },
   {
     "scientificName": "Phyllidiidae sp. 1",
@@ -10328,8 +10328,8 @@
     "scientificName": "Phyllidiidae spp.",
     "slug": "phyllidiidae_spp.",
     "url": "https://en.seaslug.world/species/phyllidiidae_spp.",
-    "size": null,
-    "depth": null
+    "size": "40mm",
+    "depth": "16.0m"
   },
   {
     "scientificName": "Phyllidiopsis annae Brunckhorst, 1993",
@@ -10405,8 +10405,8 @@
     "scientificName": "Phyllidiopsis xishaensis (Lin, 1983)",
     "slug": "phyllidiopsis_xishaensis",
     "url": "https://en.seaslug.world/species/phyllidiopsis_xishaensis",
-    "size": null,
-    "depth": null
+    "size": "10mm",
+    "depth": "15.0m"
   },
   {
     "scientificName": "Phylliroe bucephala P\u00e9ron &amp; Lesueur, 1810",
@@ -10426,8 +10426,8 @@
     "scientificName": "Phyllodesmium briareum (Bergh, 1896)",
     "slug": "phyllodesmium_briareum",
     "url": "https://en.seaslug.world/species/phyllodesmium_briareum",
-    "size": null,
-    "depth": null
+    "size": "20mm",
+    "depth": "6.0m"
   },
   {
     "scientificName": "Phyllodesmium colemani Rudman, 1991",
@@ -10496,15 +10496,15 @@
     "scientificName": "Phyllodesmium longicirrum (Bergh, 1905)",
     "slug": "phyllodesmium_longicirrum",
     "url": "https://en.seaslug.world/species/phyllodesmium_longicirrum",
-    "size": null,
-    "depth": null
+    "size": "100mm",
+    "depth": "17.0m"
   },
   {
     "scientificName": "Phyllodesmium macphersonae (Burn, 1962)",
     "slug": "phyllodesmium_macphersonae",
     "url": "https://en.seaslug.world/species/phyllodesmium_macphersonae",
-    "size": null,
-    "depth": null
+    "size": "15mm",
+    "depth": "20.0m"
   },
   {
     "scientificName": "Phyllodesmium magnum Rudman, 1991",
@@ -10531,8 +10531,8 @@
     "scientificName": "Phyllodesmium poindimiei (Risbec, 1928)",
     "slug": "phyllodesmium_poindimiei",
     "url": "https://en.seaslug.world/species/phyllodesmium_poindimiei",
-    "size": null,
-    "depth": null
+    "size": "15mm",
+    "depth": "6.0m"
   },
   {
     "scientificName": "Phyllodesmium rudmani Burghardt &amp; Gosliner, 2006",
@@ -10545,8 +10545,8 @@
     "scientificName": "Phyllodesmium serratum (Baba, 1949)",
     "slug": "phyllodesmium_serratum",
     "url": "https://en.seaslug.world/species/phyllodesmium_serratum",
-    "size": null,
-    "depth": null
+    "size": "12mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Phyllodesmium sp. 1",
@@ -10685,8 +10685,8 @@
     "scientificName": "Platydoris argo (Linnaeus, 1767)",
     "slug": "platydoris_argo",
     "url": "https://en.seaslug.world/species/platydoris_argo",
-    "size": null,
-    "depth": null
+    "size": "70mm",
+    "depth": "20.0m"
   },
   {
     "scientificName": "Platydoris cinereobranchiata Dorgan, Valdes, &amp; Gosliner, 2002",
@@ -10720,8 +10720,8 @@
     "scientificName": "Platydoris inframaculata (Abraham, 1877)",
     "slug": "platydoris_inframaculata",
     "url": "https://en.seaslug.world/species/platydoris_inframaculata",
-    "size": null,
-    "depth": null
+    "size": "150mm",
+    "depth": "16.0m"
   },
   {
     "scientificName": "Platydoris inornata Dorgan, Valdes, &amp; Gosliner, 2002",
@@ -10748,8 +10748,8 @@
     "scientificName": "Platydoris scabra (Cuvier, 1804)",
     "slug": "platydoris_scabra",
     "url": "https://en.seaslug.world/species/platydoris_scabra",
-    "size": null,
-    "depth": null
+    "size": "1000mm",
+    "depth": "1.0m"
   },
   {
     "scientificName": "Platydoris sp. 1",
@@ -10832,8 +10832,8 @@
     "scientificName": "Pleurobranchus hilli (Hedley, 1894)",
     "slug": "pleurobranchus_hilli",
     "url": "https://en.seaslug.world/species/pleurobranchus_hilli",
-    "size": null,
-    "depth": null
+    "size": "180mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Pleurobranchus mamillatus Quoy &amp; Gaimard, 1832",
@@ -10867,8 +10867,8 @@
     "scientificName": "Pleurobranchus weberi (Bergh, 1905)",
     "slug": "pleurobranchus_weberi",
     "url": "https://en.seaslug.world/species/pleurobranchus_weberi",
-    "size": null,
-    "depth": null
+    "size": "300mm",
+    "depth": "12.0m"
   },
   {
     "scientificName": "Pleurolidia juliae Burn, 1966",
@@ -10881,8 +10881,8 @@
     "scientificName": "Plocamopherus ceylonicus (Kelaart, 1858)",
     "slug": "plocamopherus_ceylonicus",
     "url": "https://en.seaslug.world/species/plocamopherus_ceylonicus",
-    "size": null,
-    "depth": null
+    "size": "15mm",
+    "depth": "??m"
   },
   {
     "scientificName": "Plocamopherus imperialis Angas, 1864",
@@ -10902,8 +10902,8 @@
     "scientificName": "Plocamopherus maculatus (Pease, 1860)",
     "slug": "plocamopherus_maculatus",
     "url": "https://en.seaslug.world/species/plocamopherus_maculatus",
-    "size": null,
-    "depth": null
+    "size": "25mm",
+    "depth": "25.0m"
   },
   {
     "scientificName": "Plocamopherus margaretae Valles &amp; Gosliner, 2006",
@@ -10972,8 +10972,8 @@
     "scientificName": "Pneumoderma atlanticum pacificum (Dall, 1817)",
     "slug": "pneumoderma_atlanticum_pacificum",
     "url": "https://en.seaslug.world/species/pneumoderma_atlanticum_pacificum",
-    "size": null,
-    "depth": null
+    "size": "6mm",
+    "depth": "1.0m"
   },
   {
     "scientificName": "Pneumoderma sp. 1",
@@ -11000,8 +11000,8 @@
     "scientificName": "Polybranchia orientalis (Kelaart, 1858)",
     "slug": "polybranchia_orientalis",
     "url": "https://en.seaslug.world/species/polybranchia_orientalis",
-    "size": null,
-    "depth": null
+    "size": "400mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Polybranchia samanthae Medrano, Krug, Gosliner, Biju Kumar &amp; Vald\u00e9s, 2018",
@@ -11021,15 +11021,15 @@
     "scientificName": "Polybranchia spp.",
     "slug": "polybranchia_spp.",
     "url": "https://en.seaslug.world/species/polybranchia_spp.",
-    "size": null,
-    "depth": null
+    "size": "7mm",
+    "depth": "10.0m"
   },
   {
     "scientificName": "Polycera abei (Baba, 1960)",
     "slug": "polycera_abei",
     "url": "https://en.seaslug.world/species/polycera_abei",
-    "size": null,
-    "depth": null
+    "size": "10mm",
+    "depth": "6.0m"
   },
   {
     "scientificName": "Polycera capensis Quoy &amp; Gaimard, 1824",
@@ -11210,8 +11210,8 @@
     "scientificName": "Produnga rubropunctata (Edmunds, 1969)",
     "slug": "produnga_rubropunctata",
     "url": "https://en.seaslug.world/species/produnga_rubropunctata",
-    "size": null,
-    "depth": null
+    "size": "10mm",
+    "depth": "4.0m"
   },
   {
     "scientificName": "Protaeolidiella atra Baba, 1955",
@@ -11224,8 +11224,8 @@
     "scientificName": "Pruvotfolia rhodopos (Yonow, 2000)",
     "slug": "pruvotfolia_rhodopos",
     "url": "https://en.seaslug.world/species/pruvotfolia_rhodopos",
-    "size": null,
-    "depth": null
+    "size": "10mm",
+    "depth": "3.0m"
   },
   {
     "scientificName": "Pruvotfolia sp. 1",
@@ -11280,36 +11280,36 @@
     "scientificName": "Pteraeolidia ianthina (Angas,1864)",
     "slug": "pteraeolidia_ianthina",
     "url": "https://en.seaslug.world/species/pteraeolidia_ianthina",
-    "size": null,
-    "depth": null
+    "size": "100mm",
+    "depth": "10.0m"
   },
   {
     "scientificName": "Pteraeolidia semperi (Bergh, 1870)",
     "slug": "pteraeolidia_semperi",
     "url": "https://en.seaslug.world/species/pteraeolidia_semperi",
-    "size": null,
-    "depth": null
+    "size": "30mm",
+    "depth": "8.0m"
   },
   {
     "scientificName": "Punctacteon fabreanus (Crosse, 1873)",
     "slug": "punctacteon_fabreanus",
     "url": "https://en.seaslug.world/species/punctacteon_fabreanus",
-    "size": null,
-    "depth": null
+    "size": "10mm",
+    "depth": "10.0m"
   },
   {
     "scientificName": "Pupa strigosa (Gould, 1859)",
     "slug": "pupa_strigosa",
     "url": "https://en.seaslug.world/species/pupa_strigosa",
-    "size": null,
-    "depth": null
+    "size": "10mm",
+    "depth": "20.0m"
   },
   {
     "scientificName": "Pyrunculus phialus (A. Adams, 1862)",
     "slug": "pyrunculus_phialus",
     "url": "https://en.seaslug.world/species/pyrunculus_phialus",
-    "size": null,
-    "depth": null
+    "size": "4mm",
+    "depth": "24.0m"
   },
   {
     "scientificName": "Reticulidia fungia Brunckhorst &amp; Gosliner in Brunckhorst, 1993",
@@ -11336,22 +11336,22 @@
     "scientificName": "Retusa concentrica (A.Adams, 1850)",
     "slug": "retusa_concentrica",
     "url": "https://en.seaslug.world/species/retusa_concentrica",
-    "size": null,
-    "depth": null
+    "size": "3mm",
+    "depth": "10.0m"
   },
   {
     "scientificName": "Retusa spp.",
     "slug": "retusa_spp.",
     "url": "https://en.seaslug.world/species/retusa_spp.",
-    "size": null,
-    "depth": null
+    "size": "4mm",
+    "depth": "10.0m"
   },
   {
     "scientificName": "Retusa succincta (A.Adams, 1862)",
     "slug": "retusa_succincta",
     "url": "https://en.seaslug.world/species/retusa_succincta",
-    "size": null,
-    "depth": null
+    "size": "3mm",
+    "depth": "10.0m"
   },
   {
     "scientificName": "Ringicula doliaris A. Gould, 1860",
@@ -11371,8 +11371,8 @@
     "scientificName": "Roboastra gracilis (Bergh, 1877)",
     "slug": "roboastra_gracilis",
     "url": "https://en.seaslug.world/species/roboastra_gracilis",
-    "size": null,
-    "depth": null
+    "size": "20mm",
+    "depth": "4.0m"
   },
   {
     "scientificName": "Roboastra tentaculata Pola, Cervera &amp; Gosliner, 2005",
@@ -11385,8 +11385,8 @@
     "scientificName": "Rostanga arbutus (Angas, 1864)",
     "slug": "rostanga_arbutus",
     "url": "https://en.seaslug.world/species/rostanga_arbutus",
-    "size": null,
-    "depth": null
+    "size": "14mm",
+    "depth": "8.0m"
   },
   {
     "scientificName": "Rostanga cf. bifurcata Rudman &amp; Avern, 1989",
@@ -11399,8 +11399,8 @@
     "scientificName": "Rostanga lutescens (Bergh, 1905)",
     "slug": "rostanga_lutescens",
     "url": "https://en.seaslug.world/species/rostanga_lutescens",
-    "size": null,
-    "depth": null
+    "size": "20mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Rostanga orientalis Rudman &amp; Avern, 1989",
@@ -11483,15 +11483,15 @@
     "scientificName": "Roxaniella multistriata (Schepman, 1913)",
     "slug": "roxaniella_multistriata",
     "url": "https://en.seaslug.world/species/roxaniella_multistriata",
-    "size": null,
-    "depth": null
+    "size": "5mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Runcinida elioti (Baba, 1937)",
     "slug": "runcinida_elioti",
     "url": "https://en.seaslug.world/species/runcinida_elioti",
-    "size": null,
-    "depth": null
+    "size": "5mm",
+    "depth": "0.2m"
   },
   {
     "scientificName": "Runcinida sp. 1",
@@ -11539,8 +11539,8 @@
     "scientificName": "Sacoproteus smaragdinus (Baba, 1949)",
     "slug": "sacoproteus_smaragdinus",
     "url": "https://en.seaslug.world/species/sacoproteus_smaragdinus",
-    "size": null,
-    "depth": null
+    "size": "10mm",
+    "depth": "3.0m"
   },
   {
     "scientificName": "Sagaminopteron bilealbum Carlson &amp; Hoff, 1973",
@@ -11602,8 +11602,8 @@
     "scientificName": "Sakuraeolis enosimensis (Baba, 1930)",
     "slug": "sakuraeolis_enosimensis",
     "url": "https://en.seaslug.world/species/sakuraeolis_enosimensis",
-    "size": null,
-    "depth": null
+    "size": "15mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Sakuraeolis gerberina Hirano, 1999",
@@ -11679,8 +11679,8 @@
     "scientificName": "Samla bicolor (Kelaart, 1858)",
     "slug": "samla_bicolor",
     "url": "https://en.seaslug.world/species/samla_bicolor",
-    "size": null,
-    "depth": null
+    "size": "15mm",
+    "depth": "3.0m"
   },
   {
     "scientificName": "Samla bilas (Gosliner &amp; Willan, 1991)",
@@ -11749,8 +11749,8 @@
     "scientificName": "Sclerodoris rubicunda (Baba, 1949)",
     "slug": "sclerodoris_rubicunda",
     "url": "https://en.seaslug.world/species/sclerodoris_rubicunda",
-    "size": null,
-    "depth": null
+    "size": "??mm",
+    "depth": "??m"
   },
   {
     "scientificName": "Sclerodoris sp. 2",
@@ -11777,8 +11777,8 @@
     "scientificName": "Scyllaea pelagica (Linnaeus, 1758)",
     "slug": "scyllaea_pelagica",
     "url": "https://en.seaslug.world/species/scyllaea_pelagica",
-    "size": null,
-    "depth": null
+    "size": "30mm",
+    "depth": "0.3m"
   },
   {
     "scientificName": "Scyllaea sp. 1",
@@ -11798,22 +11798,22 @@
     "scientificName": "Sebadoris nubilosa (Pease, 1871)",
     "slug": "sebadoris_nubilosa",
     "url": "https://en.seaslug.world/species/sebadoris_nubilosa",
-    "size": null,
-    "depth": null
+    "size": "60mm",
+    "depth": "0.2m"
   },
   {
     "scientificName": "Setoeolis inconspicua (Baba, 1938)",
     "slug": "setoeolis_inconspicua",
     "url": "https://en.seaslug.world/species/setoeolis_inconspicua",
-    "size": null,
-    "depth": null
+    "size": "12mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Showajidaia sagamiensis (Baba, 1937)",
     "slug": "showajidaia_sagamiensis",
     "url": "https://en.seaslug.world/species/showajidaia_sagamiensis",
-    "size": null,
-    "depth": null
+    "size": "40mm",
+    "depth": "20.0m"
   },
   {
     "scientificName": "Siphopteron brunneomarginatum (Carlson &amp; Hoff, 1974)",
@@ -12008,8 +12008,8 @@
     "scientificName": "Spinoaglaja orientalis (Baba, 1949)",
     "slug": "spinoaglaja_orientalis",
     "url": "https://en.seaslug.world/species/spinoaglaja_orientalis",
-    "size": null,
-    "depth": null
+    "size": "10mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Spinoaglaja sp. 1",
@@ -12029,8 +12029,8 @@
     "scientificName": "Spinophallus falciphallus (Gosliner, 2011)",
     "slug": "spinophallus_falciphallus",
     "url": "https://en.seaslug.world/species/spinophallus_falciphallus",
-    "size": null,
-    "depth": null
+    "size": "30mm",
+    "depth": "16.0m"
   },
   {
     "scientificName": "Spurilla braziliana MacFarland, 1909",
@@ -12190,8 +12190,8 @@
     "scientificName": "Tambja morosa (Bergh, 1877)",
     "slug": "tambja_morosa",
     "url": "https://en.seaslug.world/species/tambja_morosa",
-    "size": null,
-    "depth": null
+    "size": "20mm",
+    "depth": "17.0m"
   },
   {
     "scientificName": "Tambja olivaria Yonow, 1994",
@@ -12211,8 +12211,8 @@
     "scientificName": "Tambja sagamiana (Baba, 1955)",
     "slug": "tambja_sagamiana",
     "url": "https://en.seaslug.world/species/tambja_sagamiana",
-    "size": null,
-    "depth": null
+    "size": "50mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Tambja sp. 1",
@@ -12253,8 +12253,8 @@
     "scientificName": "Tambja spp.",
     "slug": "tambja_spp.",
     "url": "https://en.seaslug.world/species/tambja_spp.",
-    "size": null,
-    "depth": null
+    "size": "10mm",
+    "depth": "7.0m"
   },
   {
     "scientificName": "Tambja tenuilineata M. C. Miller &amp; Haagh, 2005",
@@ -12288,43 +12288,43 @@
     "scientificName": "Tayuva lilacina (Gould, 1852)",
     "slug": "tayuva_lilacina",
     "url": "https://en.seaslug.world/species/tayuva_lilacina",
-    "size": null,
-    "depth": null
+    "size": "25mm",
+    "depth": "15.0m"
   },
   {
     "scientificName": "Telodiacria quadridentata (Blainville, 1821)",
     "slug": "telodiacria_quadridentata",
     "url": "https://en.seaslug.world/species/telodiacria_quadridentata",
-    "size": null,
-    "depth": null
+    "size": "2mm",
+    "depth": "1.0m"
   },
   {
     "scientificName": "Tenellia acinosa (Risbec, 1928)",
     "slug": "tenellia_acinosa",
     "url": "https://en.seaslug.world/species/tenellia_acinosa",
-    "size": null,
-    "depth": null
+    "size": "12mm",
+    "depth": "25.0m"
   },
   {
     "scientificName": "Tenellia adspersa (Nordmann, 1844)",
     "slug": "tenellia_adspersa",
     "url": "https://en.seaslug.world/species/tenellia_adspersa",
-    "size": null,
-    "depth": null
+    "size": "3mm",
+    "depth": "0.1m"
   },
   {
     "scientificName": "Tenellia akibai (Baba, 1984)",
     "slug": "tenellia_akibai",
     "url": "https://en.seaslug.world/species/tenellia_akibai",
-    "size": null,
-    "depth": null
+    "size": "5mm",
+    "depth": "0.2m"
   },
   {
     "scientificName": "Tenellia anulata (Baba, 1949)",
     "slug": "tenellia_anulata",
     "url": "https://en.seaslug.world/species/tenellia_anulata",
-    "size": null,
-    "depth": null
+    "size": "10mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Tenellia beta (Baba &amp; Abe, 1964)",
@@ -12344,22 +12344,22 @@
     "scientificName": "Tenellia diversicolor (Baba, 1975)",
     "slug": "tenellia_diversicolor",
     "url": "https://en.seaslug.world/species/tenellia_diversicolor",
-    "size": null,
-    "depth": null
+    "size": "10mm",
+    "depth": "10.0m"
   },
   {
     "scientificName": "Tenellia futairo (Baba, 1963)",
     "slug": "tenellia_futairo",
     "url": "https://en.seaslug.world/species/tenellia_futairo",
-    "size": null,
-    "depth": null
+    "size": "10mm",
+    "depth": "15.0m"
   },
   {
     "scientificName": "Tenellia kuiterorum",
     "slug": "tenellia_kuiterorum",
     "url": "https://en.seaslug.world/species/tenellia_kuiterorum",
-    "size": null,
-    "depth": null
+    "size": "3mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Tenellia nakapila A. Y. Kim &amp; Gosliner, 2024",
@@ -12372,22 +12372,22 @@
     "scientificName": "Tenellia ornata (Baba, 1937)",
     "slug": "tenellia_ornata",
     "url": "https://en.seaslug.world/species/tenellia_ornata",
-    "size": null,
-    "depth": null
+    "size": "12mm",
+    "depth": "25.0m"
   },
   {
     "scientificName": "Tenellia puellula (Baba, 1955)",
     "slug": "tenellia_puellula",
     "url": "https://en.seaslug.world/species/tenellia_puellula",
-    "size": null,
-    "depth": null
+    "size": "10mm",
+    "depth": "13.0m"
   },
   {
     "scientificName": "Tenellia pupillae (Baba,1961)",
     "slug": "tenellia_pupillae",
     "url": "https://en.seaslug.world/species/tenellia_pupillae",
-    "size": null,
-    "depth": null
+    "size": "4mm",
+    "depth": "8.0m"
   },
   {
     "scientificName": "Tenellia puti A. Y. Kim &amp; Gosliner, 2024",
@@ -12400,8 +12400,8 @@
     "scientificName": "Tenellia sibogae (Bergh, 1905)",
     "slug": "tenellia_sibogae",
     "url": "https://en.seaslug.world/species/tenellia_sibogae",
-    "size": null,
-    "depth": null
+    "size": "12mm",
+    "depth": "4.0m"
   },
   {
     "scientificName": "Tenellia sp.10",
@@ -13051,15 +13051,15 @@
     "scientificName": "Tenellia yamasui (Hamatani, 1993)",
     "slug": "tenellia_yamasui",
     "url": "https://en.seaslug.world/species/tenellia_yamasui",
-    "size": null,
-    "depth": null
+    "size": "30mm",
+    "depth": "15.0m"
   },
   {
     "scientificName": "Tergipes tergipes (Forssk\u00e5l, 1775)",
     "slug": "tergipes_tergipes",
     "url": "https://en.seaslug.world/species/tergipes_tergipes",
-    "size": null,
-    "depth": null
+    "size": "3mm",
+    "depth": "10.0m"
   },
   {
     "scientificName": "Tergiposacca longicerata Cella, Carmona, Ekimova, Chichvarkhin, Schepetov &amp; Gosliner, 2016",
@@ -13086,8 +13086,8 @@
     "scientificName": "Thecacera pennigera (Montagu, 1815)",
     "slug": "thecacera_pennigera",
     "url": "https://en.seaslug.world/species/thecacera_pennigera",
-    "size": null,
-    "depth": null
+    "size": "12mm",
+    "depth": "18.0m"
   },
   {
     "scientificName": "Thecacera picta Baba, 1972",
@@ -13296,8 +13296,8 @@
     "scientificName": "Thorunna australis (Risbec, 1928)",
     "slug": "thorunna_australis",
     "url": "https://en.seaslug.world/species/thorunna_australis",
-    "size": null,
-    "depth": null
+    "size": "12mm",
+    "depth": "7.0m"
   },
   {
     "scientificName": "Thorunna daniellae (Key &amp; Young, 1969)",
@@ -13310,8 +13310,8 @@
     "scientificName": "Thorunna florens (Baba, 1949)",
     "slug": "thorunna_florens",
     "url": "https://en.seaslug.world/species/thorunna_florens",
-    "size": null,
-    "depth": null
+    "size": "17mm",
+    "depth": "20.0m"
   },
   {
     "scientificName": "Thorunna furtiva Bergh, 1878",
@@ -13387,8 +13387,8 @@
     "scientificName": "Thuridilla bayeri (Er. Marcus, 1965)",
     "slug": "thuridilla_bayeri",
     "url": "https://en.seaslug.world/species/thuridilla_bayeri",
-    "size": null,
-    "depth": null
+    "size": "12mm",
+    "depth": "12.0m"
   },
   {
     "scientificName": "Thuridilla carlsoni Gosliner, 1995",
@@ -13401,8 +13401,8 @@
     "scientificName": "Thuridilla coerulea (Kelaart, 1858)",
     "slug": "thuridilla_coerulea",
     "url": "https://en.seaslug.world/species/thuridilla_coerulea",
-    "size": null,
-    "depth": null
+    "size": "40mm",
+    "depth": "0.2m"
   },
   {
     "scientificName": "Thuridilla flavomaculata Gosliner, 1995",
@@ -13415,8 +13415,8 @@
     "scientificName": "Thuridilla gracilis (Risbec, 1928)",
     "slug": "thuridilla_gracilis",
     "url": "https://en.seaslug.world/species/thuridilla_gracilis",
-    "size": null,
-    "depth": null
+    "size": "15mm",
+    "depth": "11.0m"
   },
   {
     "scientificName": "Thuridilla hoffae Gosliner, 1995",
@@ -13429,8 +13429,8 @@
     "scientificName": "Thuridilla hopei (V\u00e9rany, 1853)",
     "slug": "thuridilla_hopei",
     "url": "https://en.seaslug.world/species/thuridilla_hopei",
-    "size": null,
-    "depth": null
+    "size": "25mm",
+    "depth": "15.0m"
   },
   {
     "scientificName": "Thuridilla kathae Gosliner, 1995",
@@ -13443,15 +13443,15 @@
     "scientificName": "Thuridilla lineolata (Bergh, 1905)",
     "slug": "thuridilla_lineolata",
     "url": "https://en.seaslug.world/species/thuridilla_lineolata",
-    "size": null,
-    "depth": null
+    "size": "20mm",
+    "depth": "8.0m"
   },
   {
     "scientificName": "Thuridilla livida (Baba, 1955)",
     "slug": "thuridilla_livida",
     "url": "https://en.seaslug.world/species/thuridilla_livida",
-    "size": null,
-    "depth": null
+    "size": "10mm",
+    "depth": "6.0m"
   },
   {
     "scientificName": "Thuridilla multimarginata Gosliner, 1995",
@@ -13471,8 +13471,8 @@
     "scientificName": "Thuridilla ratna (Er. Marcus, 1965)",
     "slug": "thuridilla_ratna",
     "url": "https://en.seaslug.world/species/thuridilla_ratna",
-    "size": null,
-    "depth": null
+    "size": "14mm",
+    "depth": "2.0m"
   },
   {
     "scientificName": "Thuridilla sp.10",
@@ -13527,8 +13527,8 @@
     "scientificName": "Thuridilla splendens (Baba, 1949)",
     "slug": "thuridilla_splendens",
     "url": "https://en.seaslug.world/species/thuridilla_splendens",
-    "size": null,
-    "depth": null
+    "size": "15mm",
+    "depth": "6.0m"
   },
   {
     "scientificName": "Thuridilla undula Gosliner, 1995",
@@ -13541,15 +13541,15 @@
     "scientificName": "Thuridilla vataae (Risbec, 1928)",
     "slug": "thuridilla_vataae",
     "url": "https://en.seaslug.world/species/thuridilla_vataae",
-    "size": null,
-    "depth": null
+    "size": "9mm",
+    "depth": "4.0m"
   },
   {
     "scientificName": "Tomoberthella martensi (Pilsbry, 1896)",
     "slug": "tomoberthella_martensi",
     "url": "https://en.seaslug.world/species/tomoberthella_martensi",
-    "size": null,
-    "depth": null
+    "size": "40mm",
+    "depth": "15.0m"
   },
   {
     "scientificName": "Trapania armilla Gosliner &amp; Fahey, 2008",
@@ -13604,8 +13604,8 @@
     "scientificName": "Trapania japonica (Baba, 1935)",
     "slug": "trapania_japonica",
     "url": "https://en.seaslug.world/species/trapania_japonica",
-    "size": null,
-    "depth": null
+    "size": "30mm",
+    "depth": "10.0m"
   },
   {
     "scientificName": "Trapania kahel Smirnoff, Donohoo &amp; Gosliner, 2022",
@@ -13877,8 +13877,8 @@
     "scientificName": "Tritonia festiva (Stearns, 1873)",
     "slug": "tritonia_festiva",
     "url": "https://en.seaslug.world/species/tritonia_festiva",
-    "size": null,
-    "depth": null
+    "size": "15mm",
+    "depth": "10.0m"
   },
   {
     "scientificName": "Tritonia hombergii Cuvier, 1803",
@@ -13954,8 +13954,8 @@
     "scientificName": "Tritonia tetraquetra (Pallas, 1788)",
     "slug": "tritonia_tetraquetra",
     "url": "https://en.seaslug.world/species/tritonia_tetraquetra",
-    "size": null,
-    "depth": null
+    "size": "??mm",
+    "depth": "3.0m"
   },
   {
     "scientificName": "Tritoniidae sp. 1",
@@ -13968,8 +13968,8 @@
     "scientificName": "Tritoniidae spp.",
     "slug": "tritoniidae_spp.",
     "url": "https://en.seaslug.world/species/tritoniidae_spp.",
-    "size": null,
-    "depth": null
+    "size": "100mm",
+    "depth": "10.0m"
   },
   {
     "scientificName": "Tritoniopsis cf. frydis",
@@ -13982,8 +13982,8 @@
     "scientificName": "Tritoniopsis elegans (Audouin in Savigny, 1826)",
     "slug": "tritoniopsis_elegans",
     "url": "https://en.seaslug.world/species/tritoniopsis_elegans",
-    "size": null,
-    "depth": null
+    "size": "30mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Tritoniopsis sp. 1",
@@ -13996,8 +13996,8 @@
     "scientificName": "Tubulophilinopsis gardineri (Eliot, 1903)",
     "slug": "tubulophilinopsis_gardineri",
     "url": "https://en.seaslug.world/species/tubulophilinopsis_gardineri",
-    "size": null,
-    "depth": null
+    "size": "40mm",
+    "depth": "25.0m"
   },
   {
     "scientificName": "Tubulophilinopsis lineolata (H. &amp; A. Adams, 1854)",
@@ -14010,15 +14010,15 @@
     "scientificName": "Tubulophilinopsis pilsbryi (Eliot, 1900)",
     "slug": "tubulophilinopsis_pilsbryi",
     "url": "https://en.seaslug.world/species/tubulophilinopsis_pilsbryi",
-    "size": null,
-    "depth": null
+    "size": "30mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Tubulophilinopsis reticulata (Eliot, 1903)",
     "slug": "tubulophilinopsis_reticulata",
     "url": "https://en.seaslug.world/species/tubulophilinopsis_reticulata",
-    "size": null,
-    "depth": null
+    "size": "15mm",
+    "depth": "13.0m"
   },
   {
     "scientificName": "Tubulophilinopsis sp. 1",
@@ -14031,8 +14031,8 @@
     "scientificName": "Tylodina perversa (Gmelin, 1791)",
     "slug": "tylodina_perversa",
     "url": "https://en.seaslug.world/species/tylodina_perversa",
-    "size": null,
-    "depth": null
+    "size": "25mm",
+    "depth": "12.0m"
   },
   {
     "scientificName": "Tylodina sp. 1",
@@ -14045,8 +14045,8 @@
     "scientificName": "Tyrannodoris luteolineata (Baba, 1936)",
     "slug": "tyrannodoris_luteolineata",
     "url": "https://en.seaslug.world/species/tyrannodoris_luteolineata",
-    "size": null,
-    "depth": null
+    "size": "130mm",
+    "depth": "10.0m"
   },
   {
     "scientificName": "Tyrannodoris nikolasi (Pola, Padula, Gosliner &amp; Cervera, 2014)",
@@ -14066,8 +14066,8 @@
     "scientificName": "Umbraculum umbraculum (Lightfoot, 1786)",
     "slug": "umbraculum_umbraculum",
     "url": "https://en.seaslug.world/species/umbraculum_umbraculum",
-    "size": null,
-    "depth": null
+    "size": "150mm",
+    "depth": "6.0m"
   },
   {
     "scientificName": "Unidentia aliciae Korshunova, Mehrotra, Arnold, Lundin, Picton &amp; Martynov, 2019",
@@ -14129,92 +14129,92 @@
     "scientificName": "Unidentia spp.",
     "slug": "unidentia_spp.",
     "url": "https://en.seaslug.world/species/unidentia_spp.",
-    "size": null,
-    "depth": null
+    "size": "10mm",
+    "depth": "??m"
   },
   {
     "scientificName": "Unknown Species",
     "slug": "unknown_species",
     "url": "https://en.seaslug.world/species/unknown_species",
-    "size": null,
-    "depth": null
+    "size": "10mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Vayssierea felis (Collingwood, 1881)",
     "slug": "vayssierea_felis",
     "url": "https://en.seaslug.world/species/vayssierea_felis",
-    "size": null,
-    "depth": null
+    "size": "8mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Vellicolla muscaria (Gould, 1859)",
     "slug": "vellicolla_muscaria",
     "url": "https://en.seaslug.world/species/vellicolla_muscaria",
-    "size": null,
-    "depth": null
+    "size": "7mm",
+    "depth": "13.0m"
   },
   {
     "scientificName": "Vellicolla okamotoi (Habe, 1952)",
     "slug": "vellicolla_okamotoi",
     "url": "https://en.seaslug.world/species/vellicolla_okamotoi",
-    "size": null,
-    "depth": null
+    "size": "10mm",
+    "depth": "15.0m"
   },
   {
     "scientificName": "Vellicolla ooformis (Habe, 1952)",
     "slug": "vellicolla_ooformis",
     "url": "https://en.seaslug.world/species/vellicolla_ooformis",
-    "size": null,
-    "depth": null
+    "size": "15mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Verconia alboannulata (Rudman, 1986)",
     "slug": "verconia_alboannulata",
     "url": "https://en.seaslug.world/species/verconia_alboannulata",
-    "size": null,
-    "depth": null
+    "size": "15mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Verconia catalai (Rudman, 1990)",
     "slug": "verconia_catalai",
     "url": "https://en.seaslug.world/species/verconia_catalai",
-    "size": null,
-    "depth": null
+    "size": "10mm",
+    "depth": "20.0m"
   },
   {
     "scientificName": "Verconia decussata (Risbec, 1928)",
     "slug": "verconia_decussata",
     "url": "https://en.seaslug.world/species/verconia_decussata",
-    "size": null,
-    "depth": null
+    "size": "20mm",
+    "depth": "10.0m"
   },
   {
     "scientificName": "Verconia haliclona (Burn, 1957)",
     "slug": "verconia_haliclona",
     "url": "https://en.seaslug.world/species/verconia_haliclona",
-    "size": null,
-    "depth": null
+    "size": "20mm",
+    "depth": "15.0m"
   },
   {
     "scientificName": "Verconia hongkongiensis (Rudman, 1990)",
     "slug": "verconia_hongkongiensis",
     "url": "https://en.seaslug.world/species/verconia_hongkongiensis",
-    "size": null,
-    "depth": null
+    "size": "8mm",
+    "depth": "12.0m"
   },
   {
     "scientificName": "Verconia laboutei (Rudman, 1986)",
     "slug": "verconia_laboutei",
     "url": "https://en.seaslug.world/species/verconia_laboutei",
-    "size": null,
-    "depth": null
+    "size": "5mm",
+    "depth": "12.0m"
   },
   {
     "scientificName": "Verconia nivalis (Baba, 1937)",
     "slug": "verconia_nivalis",
     "url": "https://en.seaslug.world/species/verconia_nivalis",
-    "size": null,
-    "depth": null
+    "size": "8mm",
+    "depth": "13.0m"
   },
   {
     "scientificName": "Verconia norba (Er. Marcus &amp; Ev. Marcus, 1970)",
@@ -14227,22 +14227,22 @@
     "scientificName": "Verconia purpurea (Baba, 1949)",
     "slug": "verconia_purpurea",
     "url": "https://en.seaslug.world/species/verconia_purpurea",
-    "size": null,
-    "depth": null
+    "size": "15mm",
+    "depth": "10.0m"
   },
   {
     "scientificName": "Verconia romeri (Risbec, 1928)",
     "slug": "verconia_romeri",
     "url": "https://en.seaslug.world/species/verconia_romeri",
-    "size": null,
-    "depth": null
+    "size": "14mm",
+    "depth": "10.0m"
   },
   {
     "scientificName": "Verconia simplex (Pease, 1871)",
     "slug": "verconia_simplex",
     "url": "https://en.seaslug.world/species/verconia_simplex",
-    "size": null,
-    "depth": null
+    "size": "5mm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Verconia sp. 1",
@@ -14290,22 +14290,22 @@
     "scientificName": "Verconia subnivalis (Baba, 1987)",
     "slug": "verconia_subnivalis",
     "url": "https://en.seaslug.world/species/verconia_subnivalis",
-    "size": null,
-    "depth": null
+    "size": "22mm",
+    "depth": "1.0m"
   },
   {
     "scientificName": "Verconia varians (Pease, 1871)",
     "slug": "verconia_varians",
     "url": "https://en.seaslug.world/species/verconia_varians",
-    "size": null,
-    "depth": null
+    "size": "10mm",
+    "depth": "10.0m"
   },
   {
     "scientificName": "Verconia verconiforma (Rudman, 1995)",
     "slug": "verconia_verconiforma",
     "url": "https://en.seaslug.world/species/verconia_verconiforma",
-    "size": null,
-    "depth": null
+    "size": "6mm",
+    "depth": "18.0m"
   },
   {
     "scientificName": "Volvatella angeliniana Ichikawa, 1933",
