@@ -5316,15 +5316,15 @@
     "scientificName": "Facelinidae sp. 8",
     "slug": "facelinidae_sp._8",
     "url": "https://en.seaslug.world/species/facelinidae_sp._8",
-    "size": null,
-    "depth": null
+    "size": "0.9cm",
+    "depth": "7.0m"
   },
   {
     "scientificName": "Facelinidae sp. 9",
     "slug": "facelinidae_sp._9",
     "url": "https://en.seaslug.world/species/facelinidae_sp._9",
-    "size": null,
-    "depth": null
+    "size": "2.0cm",
+    "depth": "20.0m"
   },
   {
     "scientificName": "Favorinus branchialis (Rathke, 1806)",
@@ -5365,15 +5365,15 @@
     "scientificName": "Favorinus sp.10",
     "slug": "favorinus_sp.10",
     "url": "https://en.seaslug.world/species/favorinus_sp.10",
-    "size": null,
-    "depth": null
+    "size": "0.2cm",
+    "depth": "5.0m"
   },
   {
     "scientificName": "Favorinus sp.11",
     "slug": "favorinus_sp.11",
     "url": "https://en.seaslug.world/species/favorinus_sp.11",
-    "size": null,
-    "depth": null
+    "size": "0.5cm",
+    "depth": "20.0m"
   },
   {
     "scientificName": "Favorinus sp.12",
