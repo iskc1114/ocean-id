@@ -10811,8 +10811,8 @@
     "scientificName": "Pleurobranchus albiguttatus (Bergh, 1905)",
     "slug": "pleurobranchus_albiguttatus",
     "url": "https://en.seaslug.world/species/pleurobranchus_albiguttatus",
-    "size": null,
-    "depth": null
+    "size": "20mm",
+    "depth": "7.0m"
   },
   {
     "scientificName": "Pleurobranchus forskalii (Ruppell &amp; Leuckart, 1828)",
